@@ -1,5 +1,6 @@
 from boy import Boy
 from girl import Girl
+from datetime import datetime
 import random
 import csv
 
@@ -52,6 +53,7 @@ for boy in B:
 #taking note of all commitments
 file=open("log.txt","w")
 for item in commit:
-	file.write("%s\n"%item)
+	file.write(str(datetime.now()))
+	file.write(" %s\n"%item)
 
 
