@@ -1,6 +1,7 @@
 PPL-430C Assignment
 ===
 
+![alt tag](https://camo.githubusercontent.com/b0a4975478bf336f831e90346052780954e4dc70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d507974686f6e332d627269676874677265656e2e737667)
 ## ABHISHEK KUMAR (IIT 2015 077)
 ---
 
@@ -9,11 +10,11 @@ PPL-430C Assignment
 
 ```
 
-** Windows 10 Pro OS **
+**Windows 10 Pro OS**
 
-** Build ** : 14393.693
+**Build** : 14393.693
 
-** OS Type ** : 64 bit
+**OS Type** : 64 bit
 
 ```
 
@@ -45,11 +46,11 @@ Python 3.5.2
 # Tools Used:
 ---
 
-* ** Sublime Text 3 ** : *For code editing*
+* **Sublime Text 3** : *For code editing*
 
-* ** PynSource ** : *Generates class diagream from source code*
+* **PynSource** : *Generates class diagream from source code*
 
-* **Epycode  ** : *Generates automatic Documentation*
+* **Epycode** : *Generates automatic Documentation*
 
 # Documentation and Class Diagram: 
 ---
