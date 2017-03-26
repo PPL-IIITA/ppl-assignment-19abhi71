@@ -46,11 +46,11 @@ Python 3.5.2
 ## Tools Used:
 ---
 
-* **Sublime Text 3** : *For code editing*
+* [**Sublime Text 3**](https://www.sublimetext.com/) : *For code editing*
 
-* **PynSource** : *Generates class diagream from source code*
+* [**PynSource**](http://www.andypatterns.com/index.php/products/pynsource/) : *Generates class diagream from source code*
 
-* **Epycode** : *Generates automatic Documentation*
+* [**Epydoc**](http://epydoc.sourceforge.net/) : *Generates automatic Documentation*
 
 ## Documentation and Class Diagram: 
 ---
