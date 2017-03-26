@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>main</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            >Question 1</th>
+          </tr></table></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        Module&nbsp;main
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="main-pysrc.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h1 class="epydoc">Source Code for <a href="main-module.html">Module main</a></h1>
+<pre class="py-src">
+<a name="L1"></a><tt class="py-lineno"> 1</tt>  <tt class="py-line"><tt class="py-keyword">from</tt> <tt id="link-0" class="py-name" targets="Module boy=boy-module.html,Variable main.boy=main-module.html#boy"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-0', 'boy', 'link-0');">boy</a></tt> <tt class="py-keyword">import</tt> <tt id="link-1" class="py-name" targets="Class boy.Boy=boy.Boy-class.html"><a title="boy.Boy" class="py-name" href="#" onclick="return doclink('link-1', 'Boy', 'link-1');">Boy</a></tt> </tt>
+<a name="L2"></a><tt class="py-lineno"> 2</tt>  <tt class="py-line"><tt class="py-keyword">from</tt> <tt id="link-2" class="py-name" targets="Module girl=girl-module.html,Variable main.girl=main-module.html#girl"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-2', 'girl', 'link-2');">girl</a></tt> <tt class="py-keyword">import</tt> <tt id="link-3" class="py-name" targets="Class girl.Girl=girl.Girl-class.html"><a title="girl.Girl" class="py-name" href="#" onclick="return doclink('link-3', 'Girl', 'link-3');">Girl</a></tt> </tt>
+<a name="L3"></a><tt class="py-lineno"> 3</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">random</tt> </tt>
+<a name="L4"></a><tt class="py-lineno"> 4</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">csv</tt> </tt>
+<a name="L5"></a><tt class="py-lineno"> 5</tt>  <tt class="py-line"> </tt>
+<a name="L6"></a><tt class="py-lineno"> 6</tt>  <tt class="py-line"><tt id="link-4" class="py-name" targets="Variable main.gifts=main-module.html#gifts"><a title="main.gifts" class="py-name" href="#" onclick="return doclink('link-4', 'gifts', 'link-4');">gifts</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'essential'</tt><tt class="py-op">,</tt><tt class="py-string">'luxury'</tt><tt class="py-op">,</tt><tt class="py-string">'utility'</tt><tt class="py-op">]</tt> </tt>
+<a name="L7"></a><tt class="py-lineno"> 7</tt>  <tt class="py-line"><tt id="link-5" class="py-name" targets="Variable main.boys=main-module.html#boys"><a title="main.boys" class="py-name" href="#" onclick="return doclink('link-5', 'boys', 'link-5');">boys</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'Ajit'</tt><tt class="py-op">,</tt><tt class="py-string">'Abhishek'</tt><tt class="py-op">,</tt><tt class="py-string">'Rahul'</tt><tt class="py-op">,</tt><tt class="py-string">'Tussank'</tt><tt class="py-op">,</tt><tt class="py-string">'Saurav'</tt><tt class="py-op">,</tt><tt class="py-string">'Tim'</tt><tt class="py-op">,</tt><tt class="py-string">'Joe'</tt><tt class="py-op">,</tt><tt class="py-string">'Jimmy'</tt><tt class="py-op">,</tt><tt class="py-string">'Leonardo'</tt><tt class="py-op">,</tt><tt class="py-string">'Tom'</tt><tt class="py-op">,</tt><tt class="py-string">'Eminem'</tt><tt class="py-op">,</tt><tt class="py-string">'Sam'</tt><tt class="py-op">,</tt><tt class="py-string">'Lucifer'</tt><tt class="py-op">,</tt><tt class="py-string">'Dante'</tt><tt class="py-op">,</tt><tt class="py-string">'Adam'</tt><tt class="py-op">,</tt><tt class="py-string">'Michael'</tt><tt class="py-op">,</tt><tt class="py-string">'Light'</tt><tt class="py-op">,</tt><tt class="py-string">'Kira'</tt><tt class="py-op">,</tt><tt class="py-string">'Walter'</tt><tt class="py-op">]</tt> </tt>
+<a name="L8"></a><tt class="py-lineno"> 8</tt>  <tt class="py-line"><tt id="link-6" class="py-name" targets="Variable main.girls=main-module.html#girls"><a title="main.girls" class="py-name" href="#" onclick="return doclink('link-6', 'girls', 'link-6');">girls</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'Amanda'</tt><tt class="py-op">,</tt><tt class="py-string">'Guliston'</tt><tt class="py-op">,</tt><tt class="py-string">'Nina'</tt><tt class="py-op">,</tt><tt class="py-string">'Veronica'</tt><tt class="py-op">,</tt><tt class="py-string">'Sansa'</tt><tt class="py-op">,</tt><tt class="py-string">'Anjali'</tt><tt class="py-op">,</tt><tt class="py-string">'Pooja'</tt><tt class="py-op">,</tt><tt class="py-string">'Ankita'</tt><tt class="py-op">,</tt><tt class="py-string">'Neha'</tt><tt class="py-op">,</tt><tt class="py-string">'Anny'</tt><tt class="py-op">,</tt><tt class="py-string">'Ozge'</tt><tt class="py-op">,</tt><tt class="py-string">'Ecenaz'</tt><tt class="py-op">,</tt><tt class="py-string">'Jesse'</tt><tt class="py-op">]</tt> </tt>
+<a name="L9"></a><tt class="py-lineno"> 9</tt>  <tt class="py-line"><tt id="link-7" class="py-name" targets="Variable main.typ1=main-module.html#typ1"><a title="main.typ1" class="py-name" href="#" onclick="return doclink('link-7', 'typ1', 'link-7');">typ1</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'miser'</tt><tt class="py-op">,</tt><tt class="py-string">'generous'</tt><tt class="py-op">,</tt><tt class="py-string">'geeks'</tt><tt class="py-op">]</tt> </tt>
+<a name="L10"></a><tt class="py-lineno">10</tt>  <tt class="py-line"><tt id="link-8" class="py-name" targets="Variable main.typ2=main-module.html#typ2"><a title="main.typ2" class="py-name" href="#" onclick="return doclink('link-8', 'typ2', 'link-8');">typ2</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'choosy'</tt><tt class="py-op">,</tt><tt class="py-string">'normal'</tt><tt class="py-op">,</tt><tt class="py-string">'desperate'</tt><tt class="py-op">]</tt> </tt>
+<a name="L11"></a><tt class="py-lineno">11</tt>  <tt class="py-line"><tt id="link-9" class="py-name" targets="Variable main.crit=main-module.html#crit"><a title="main.crit" class="py-name" href="#" onclick="return doclink('link-9', 'crit', 'link-9');">crit</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'most rich'</tt><tt class="py-op">,</tt><tt class="py-string">'most intelligent'</tt><tt class="py-op">,</tt><tt class="py-string">'most attractive'</tt><tt class="py-op">]</tt> </tt>
+<a name="L12"></a><tt class="py-lineno">12</tt>  <tt class="py-line"> </tt>
+<a name="L13"></a><tt class="py-lineno">13</tt>  <tt class="py-line"><tt id="link-10" class="py-name" targets="Variable main.commit=main-module.html#commit"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-10', 'commit', 'link-10');">commit</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L14"></a><tt class="py-lineno">14</tt>  <tt class="py-line"><tt id="link-11" class="py-name" targets="Variable main.B=main-module.html#B"><a title="main.B" class="py-name" href="#" onclick="return doclink('link-11', 'B', 'link-11');">B</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L15"></a><tt class="py-lineno">15</tt>  <tt class="py-line"><tt id="link-12" class="py-name" targets="Variable main.G=main-module.html#G"><a title="main.G" class="py-name" href="#" onclick="return doclink('link-12', 'G', 'link-12');">G</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L16"></a><tt class="py-lineno">16</tt>  <tt class="py-line"><tt id="link-13" class="py-name" targets="Variable main.boyslist=main-module.html#boyslist"><a title="main.boyslist" class="py-name" href="#" onclick="return doclink('link-13', 'boyslist', 'link-13');">boyslist</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L17"></a><tt class="py-lineno">17</tt>  <tt class="py-line"><tt id="link-14" class="py-name" targets="Variable main.girlslist=main-module.html#girlslist"><a title="main.girlslist" class="py-name" href="#" onclick="return doclink('link-14', 'girlslist', 'link-14');">girlslist</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L18"></a><tt class="py-lineno">18</tt>  <tt class="py-line"> </tt>
+<a name="L19"></a><tt class="py-lineno">19</tt>  <tt class="py-line"><tt class="py-keyword">for</tt> <tt id="link-15" class="py-name" targets="Variable main.i=main-module.html#i"><a title="main.i" class="py-name" href="#" onclick="return doclink('link-15', 'i', 'link-15');">i</a></tt> <tt class="py-keyword">in</tt> <tt class="py-name">range</tt><tt class="py-op">(</tt><tt class="py-number">19</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+<a name="L20"></a><tt class="py-lineno">20</tt>  <tt class="py-line">        <tt id="link-16" class="py-name" targets="Variable main.b=main-module.html#b"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-16', 'b', 'link-16');">b</a></tt><tt class="py-op">=</tt><tt id="link-17" class="py-name"><a title="boy.Boy" class="py-name" href="#" onclick="return doclink('link-17', 'Boy', 'link-1');">Boy</a></tt><tt class="py-op">(</tt><tt id="link-18" class="py-name"><a title="main.boys" class="py-name" href="#" onclick="return doclink('link-18', 'boys', 'link-5');">boys</a></tt><tt class="py-op">[</tt><tt id="link-19" class="py-name"><a title="main.i" class="py-name" href="#" onclick="return doclink('link-19', 'i', 'link-15');">i</a></tt><tt class="py-op">]</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">100</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">100</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">5000</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">50</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">choice</tt><tt class="py-op">(</tt><tt id="link-20" class="py-name"><a title="main.typ1" class="py-name" href="#" onclick="return doclink('link-20', 'typ1', 'link-7');">typ1</a></tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L21"></a><tt class="py-lineno">21</tt>  <tt class="py-line">        <tt id="link-21" class="py-name"><a title="main.boyslist" class="py-name" href="#" onclick="return doclink('link-21', 'boyslist', 'link-13');">boyslist</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt class="py-op">[</tt><tt id="link-22" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-22', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt class="py-name">name</tt><tt class="py-op">,</tt><tt id="link-23" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-23', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt class="py-name">attractiveness</tt><tt class="py-op">,</tt><tt id="link-24" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-24', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt class="py-name">intelligence</tt><tt class="py-op">,</tt><tt id="link-25" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-25', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt class="py-name">budget</tt><tt class="py-op">,</tt><tt id="link-26" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-26', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt class="py-name">minattreq</tt><tt class="py-op">,</tt><tt id="link-27" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-27', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt class="py-name">typ</tt><tt class="py-op">,</tt><tt id="link-28" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-28', 'b', 'link-16');">b</a></tt><tt class="py-op">.</tt><tt id="link-29" class="py-name" targets="Variable girl.Girl.status=girl.Girl-class.html#status"><a title="girl.Girl.status" class="py-name" href="#" onclick="return doclink('link-29', 'status', 'link-29');">status</a></tt><tt class="py-op">]</tt><tt class="py-op">)</tt> </tt>
+<a name="L22"></a><tt class="py-lineno">22</tt>  <tt class="py-line">        <tt id="link-30" class="py-name"><a title="main.B" class="py-name" href="#" onclick="return doclink('link-30', 'B', 'link-11');">B</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt id="link-31" class="py-name"><a title="main.b" class="py-name" href="#" onclick="return doclink('link-31', 'b', 'link-16');">b</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L23"></a><tt class="py-lineno">23</tt>  <tt class="py-line"> </tt>
+<a name="L24"></a><tt class="py-lineno">24</tt>  <tt class="py-line"> </tt>
+<a name="L25"></a><tt class="py-lineno">25</tt>  <tt class="py-line"><tt class="py-keyword">for</tt> <tt id="link-32" class="py-name"><a title="main.i" class="py-name" href="#" onclick="return doclink('link-32', 'i', 'link-15');">i</a></tt> <tt class="py-keyword">in</tt> <tt class="py-name">range</tt><tt class="py-op">(</tt><tt class="py-number">13</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+<a name="L26"></a><tt class="py-lineno">26</tt>  <tt class="py-line">        <tt id="link-33" class="py-name" targets="Variable main.g=main-module.html#g"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-33', 'g', 'link-33');">g</a></tt><tt class="py-op">=</tt><tt id="link-34" class="py-name"><a title="girl.Girl" class="py-name" href="#" onclick="return doclink('link-34', 'Girl', 'link-3');">Girl</a></tt><tt class="py-op">(</tt><tt id="link-35" class="py-name"><a title="main.girls" class="py-name" href="#" onclick="return doclink('link-35', 'girls', 'link-6');">girls</a></tt><tt class="py-op">[</tt><tt id="link-36" class="py-name"><a title="main.i" class="py-name" href="#" onclick="return doclink('link-36', 'i', 'link-15');">i</a></tt><tt class="py-op">]</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">100</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">100</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">0</tt><tt class="py-op">,</tt><tt class="py-number">5000</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">choice</tt><tt class="py-op">(</tt><tt id="link-37" class="py-name"><a title="main.crit" class="py-name" href="#" onclick="return doclink('link-37', 'crit', 'link-9');">crit</a></tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">choice</tt><tt class="py-op">(</tt><tt id="link-38" class="py-name"><a title="main.typ2" class="py-name" href="#" onclick="return doclink('link-38', 'typ2', 'link-8');">typ2</a></tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L27"></a><tt class="py-lineno">27</tt>  <tt class="py-line">        <tt id="link-39" class="py-name"><a title="main.girlslist" class="py-name" href="#" onclick="return doclink('link-39', 'girlslist', 'link-14');">girlslist</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt class="py-op">[</tt><tt id="link-40" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-40', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt class="py-name">name</tt><tt class="py-op">,</tt><tt id="link-41" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-41', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt class="py-name">attractiveness</tt><tt class="py-op">,</tt><tt id="link-42" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-42', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt class="py-name">intelligence</tt><tt class="py-op">,</tt><tt id="link-43" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-43', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt class="py-name">maintbudget</tt><tt class="py-op">,</tt><tt id="link-44" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-44', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt class="py-name">criteria</tt><tt class="py-op">,</tt><tt id="link-45" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-45', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt class="py-name">typ</tt><tt class="py-op">,</tt><tt id="link-46" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-46', 'g', 'link-33');">g</a></tt><tt class="py-op">.</tt><tt id="link-47" class="py-name"><a title="girl.Girl.status" class="py-name" href="#" onclick="return doclink('link-47', 'status', 'link-29');">status</a></tt><tt class="py-op">]</tt><tt class="py-op">)</tt> </tt>
+<a name="L28"></a><tt class="py-lineno">28</tt>  <tt class="py-line">        <tt id="link-48" class="py-name"><a title="main.G" class="py-name" href="#" onclick="return doclink('link-48', 'G', 'link-12');">G</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt id="link-49" class="py-name"><a title="main.g" class="py-name" href="#" onclick="return doclink('link-49', 'g', 'link-33');">g</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L29"></a><tt class="py-lineno">29</tt>  <tt class="py-line"> </tt>
+<a name="L30"></a><tt class="py-lineno">30</tt>  <tt class="py-line"> </tt>
+<a name="L31"></a><tt class="py-lineno">31</tt>  <tt class="py-line"> </tt>
+<a name="L32"></a><tt class="py-lineno">32</tt>  <tt class="py-line"><tt class="py-keyword">for</tt> <tt id="link-50" class="py-name"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-50', 'boy', 'link-0');">boy</a></tt> <tt class="py-keyword">in</tt> <tt id="link-51" class="py-name"><a title="main.B" class="py-name" href="#" onclick="return doclink('link-51', 'B', 'link-11');">B</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L33"></a><tt class="py-lineno">33</tt>  <tt class="py-line">        <tt class="py-keyword">for</tt> <tt id="link-52" class="py-name"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-52', 'girl', 'link-2');">girl</a></tt> <tt class="py-keyword">in</tt> <tt id="link-53" class="py-name"><a title="main.G" class="py-name" href="#" onclick="return doclink('link-53', 'G', 'link-12');">G</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L34"></a><tt class="py-lineno">34</tt>  <tt class="py-line">                <tt class="py-keyword">if</tt> <tt id="link-54" class="py-name"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-54', 'boy', 'link-0');">boy</a></tt><tt class="py-op">.</tt><tt id="link-55" class="py-name" targets="Method boy.Boy.readytopair()=boy.Boy-class.html#readytopair,Method girl.Girl.readytopair()=girl.Girl-class.html#readytopair"><a title="boy.Boy.readytopair
+girl.Girl.readytopair" class="py-name" href="#" onclick="return doclink('link-55', 'readytopair', 'link-55');">readytopair</a></tt><tt class="py-op">(</tt><tt id="link-56" class="py-name"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-56', 'girl', 'link-2');">girl</a></tt><tt class="py-op">)</tt> <tt class="py-keyword">and</tt> <tt id="link-57" class="py-name"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-57', 'girl', 'link-2');">girl</a></tt><tt class="py-op">.</tt><tt id="link-58" class="py-name"><a title="boy.Boy.readytopair
+girl.Girl.readytopair" class="py-name" href="#" onclick="return doclink('link-58', 'readytopair', 'link-55');">readytopair</a></tt><tt class="py-op">(</tt><tt id="link-59" class="py-name"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-59', 'boy', 'link-0');">boy</a></tt><tt class="py-op">)</tt> <tt class="py-keyword">and</tt> <tt id="link-60" class="py-name"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-60', 'boy', 'link-0');">boy</a></tt><tt class="py-op">.</tt><tt id="link-61" class="py-name" targets="Method boy.Boy.currStatus()=boy.Boy-class.html#currStatus,Method girl.Girl.currStatus()=girl.Girl-class.html#currStatus"><a title="boy.Boy.currStatus
+girl.Girl.currStatus" class="py-name" href="#" onclick="return doclink('link-61', 'currStatus', 'link-61');">currStatus</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">==</tt><tt class="py-string">'S'</tt> <tt class="py-keyword">and</tt> <tt id="link-62" class="py-name"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-62', 'girl', 'link-2');">girl</a></tt><tt class="py-op">.</tt><tt id="link-63" class="py-name"><a title="boy.Boy.currStatus
+girl.Girl.currStatus" class="py-name" href="#" onclick="return doclink('link-63', 'currStatus', 'link-61');">currStatus</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">==</tt><tt class="py-string">'S'</tt><tt class="py-op">:</tt> </tt>
+<a name="L35"></a><tt class="py-lineno">35</tt>  <tt class="py-line">                        <tt id="link-64" class="py-name"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-64', 'boy', 'link-0');">boy</a></tt><tt class="py-op">.</tt><tt id="link-65" class="py-name" targets="Method boy.Boy.changeStatus()=boy.Boy-class.html#changeStatus,Method girl.Girl.changeStatus()=girl.Girl-class.html#changeStatus"><a title="boy.Boy.changeStatus
+girl.Girl.changeStatus" class="py-name" href="#" onclick="return doclink('link-65', 'changeStatus', 'link-65');">changeStatus</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L36"></a><tt class="py-lineno">36</tt>  <tt class="py-line">                        <tt id="link-66" class="py-name"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-66', 'girl', 'link-2');">girl</a></tt><tt class="py-op">.</tt><tt id="link-67" class="py-name"><a title="boy.Boy.changeStatus
+girl.Girl.changeStatus" class="py-name" href="#" onclick="return doclink('link-67', 'changeStatus', 'link-65');">changeStatus</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L37"></a><tt class="py-lineno">37</tt>  <tt class="py-line">                        <tt id="link-68" class="py-name" targets="Variable main.s1=main-module.html#s1"><a title="main.s1" class="py-name" href="#" onclick="return doclink('link-68', 's1', 'link-68');">s1</a></tt><tt class="py-op">=</tt><tt id="link-69" class="py-name"><a title="boy
+main.boy" class="py-name" href="#" onclick="return doclink('link-69', 'boy', 'link-0');">boy</a></tt><tt class="py-op">.</tt><tt class="py-name">name</tt><tt class="py-op">+</tt><tt class="py-string">' is gonna date '</tt><tt class="py-op">+</tt><tt id="link-70" class="py-name"><a title="girl
+main.girl" class="py-name" href="#" onclick="return doclink('link-70', 'girl', 'link-2');">girl</a></tt><tt class="py-op">.</tt><tt class="py-name">name</tt> </tt>
+<a name="L38"></a><tt class="py-lineno">38</tt>  <tt class="py-line">                        <tt id="link-71" class="py-name"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-71', 'commit', 'link-10');">commit</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt id="link-72" class="py-name"><a title="main.s1" class="py-name" href="#" onclick="return doclink('link-72', 's1', 'link-68');">s1</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L39"></a><tt class="py-lineno">39</tt>  <tt class="py-line">                        <tt class="py-keyword">break</tt> </tt>
+<a name="L40"></a><tt class="py-lineno">40</tt>  <tt class="py-line"> </tt><script type="text/javascript">
+<!--
+expandto(location.href);
+// -->
+</script>
+</pre>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            >Question 1</th>
+          </tr></table></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Sun Mar 26 13:40:32 2017
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>
