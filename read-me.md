@@ -1,23 +1,23 @@
 PPL-430C Assignment
 ===
 
-##ABHISHEK KUMAR (IIT 2015 077)
+## ABHISHEK KUMAR (IIT 2015 077)
 ---
 
-#Build System
+# Build System
 ---
 
 ```
 
-**Windows 10 Pro OS**
+** Windows 10 Pro OS **
 
-**Build**: 14393.693
+** Build ** : 14393.693
 
-**OS Type**: 64 bit
+** OS Type ** : 64 bit
 
 ```
 
-#Language: 
+# Language: 
 ---
 
 ```
@@ -26,7 +26,7 @@ Python 3.5.2
 
 ```
 
-#Testing Instructions:
+# Testing Instructions:
 ---
 
   **Question 1**:
@@ -42,16 +42,16 @@ Python 3.5.2
 
 * CSV files generated - boys.csv,girls.csv
 
-#Tools Used:
+# Tools Used:
 ---
 
-* **Sublime Text 3** : *For code editing*
+* ** Sublime Text 3 ** : *For code editing*
 
-* **PynSource** : *Generates class diagream from source code*
+* ** PynSource ** : *Generates class diagream from source code*
 
-* **Epycode** : *Generates automatic Documentation*
+* **Epycode  ** : *Generates automatic Documentation*
 
-#Documentation and Class Diagram: 
+# Documentation and Class Diagram: 
 ---
 
 Present in respective folders
