@@ -2,10 +2,10 @@ PPL-430C Assignment
 ===
 
 ![alt tag](https://camo.githubusercontent.com/b0a4975478bf336f831e90346052780954e4dc70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d507974686f6e332d627269676874677265656e2e737667)
-## ABHISHEK KUMAR (IIT 2015 077)
+# ABHISHEK KUMAR (IIT 2015 077)
 ---
 
-# Build System
+## Build System
 ---
 
 ```
@@ -18,7 +18,7 @@ PPL-430C Assignment
 
 ```
 
-# Language: 
+## Language: 
 ---
 
 ```
@@ -27,7 +27,7 @@ Python 3.5.2
 
 ```
 
-# Testing Instructions:
+## Testing Instructions:
 ---
 
   **Question 1**:
@@ -43,7 +43,7 @@ Python 3.5.2
 
 * CSV files generated - boys.csv,girls.csv
 
-# Tools Used:
+## Tools Used:
 ---
 
 * **Sublime Text 3** : *For code editing*
@@ -52,7 +52,7 @@ Python 3.5.2
 
 * **Epycode** : *Generates automatic Documentation*
 
-# Documentation and Class Diagram: 
+## Documentation and Class Diagram: 
 ---
 
 Present in respective folders
