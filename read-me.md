@@ -10,11 +10,11 @@ PPL-430C Assignment
 
 ```
 
-**Windows 10 Pro OS**
+Windows 10 Pro OS
 
-**Build** : 14393.693
+Build : 14393.693
 
-**OS Type** : 64 bit
+OS Type : 64 bit
 
 ```
 
