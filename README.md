@@ -39,6 +39,16 @@ Python 3.5.2
   
   ```
 
+ **Question 2**:
+ ---
+ 
+ ```
+ 
+ python 3 main.py
+ 
+ It would print k most happiest couples followed by k most compatible couples on the terminal.
+ 
+ ```
 * Events will be logged in log.txt file
 
 * CSV files generated - boys.csv,girls.csv
