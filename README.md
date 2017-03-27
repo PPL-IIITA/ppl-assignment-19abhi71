@@ -32,24 +32,35 @@ Python 3.5.2
 ## Testing Instructions:
 ---
 
-  **Question 1**:
-  ---
-  
-  ```
+* For all questions:
+
+ ```
   
   python3 main.py 
   
   ```
+  **Question 1**:
+  ---
+  
+ ```
+ log file would contain allocation of boyfriends to all girls in the same order as given in the input, and the couples so formed.
+ 
+ ```
 
  **Question 2**:
  ---
  
+ ``` 
+ After allocating boyfriends to all girls in the same order as given in the input, and after performing gifting to all girls as per     logic,log file would contain all gift details of gift exchanges between all couples.
+the best k happiest couples and the best k most compatible couples would be printed on the screen.
  ```
  
- python 3 main.py
+ **Question 4**:
+ ---
  
- It would print k most happiest couples followed by k most compatible couples on the terminal.
- 
+ ```
+ Breakup would be performed after Valentines day of the least k happy couples. Assignment new (different) boyfriends to the girls who broke up.
+ Terminal woul print k least happiest and k least compatible couples.
  ```
 * Events will be logged in log.txt file
 
@@ -68,3 +79,5 @@ Python 3.5.2
 ---
 
 Present in respective folders
+
+In documentation folder head to *index.html* 
