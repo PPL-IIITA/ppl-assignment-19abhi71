@@ -2,8 +2,7 @@ PPL-430C Assignment
 ===
 
 ![alt tag](https://camo.githubusercontent.com/b0a4975478bf336f831e90346052780954e4dc70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d507974686f6e332d627269676874677265656e2e737667)
-![alt tag]
-(https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png)
+![alt tag](https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png)
 
 # ABHISHEK KUMAR (IIT 2015 077)
 ---
