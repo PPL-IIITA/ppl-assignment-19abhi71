@@ -60,7 +60,7 @@ Python 3.5.2
 
 * [**Sublime Text 3**](https://www.sublimetext.com/) : *For code editing*
 
-* [**PynSource**](http://www.andypatterns.com/index.php/products/pynsource/) : *Generates class diagream from source code*
+* [**PyNsource**](http://www.andypatterns.com/index.php/products/pynsource/) : *Generates class diagream from source code*
 
 * [**Epydoc**](http://epydoc.sourceforge.net/) : *Generates automatic Documentation*
 
