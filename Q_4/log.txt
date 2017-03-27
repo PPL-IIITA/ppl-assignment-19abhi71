@@ -1,0 +1,83 @@
+2017-03-27 21:36:09.156235 Ajit is gonna date Amanda
+2017-03-27 21:36:09.156235 Abhishek is gonna date Nina
+2017-03-27 21:36:09.156235 Rahul is gonna date Anjali
+2017-03-27 21:36:09.156235 Saurav is gonna date Veronica
+2017-03-27 21:36:09.156235 Tim is gonna date Pooja
+2017-03-27 21:36:09.156235 Joe is gonna date Anny
+2017-03-27 21:36:09.156235 Leonardo is gonna date Ankita
+2017-03-27 21:36:09.156235 Tom is gonna date Neha
+2017-03-27 21:36:09.156235 Eminem is gonna date Jesse
+2017-03-27 21:36:09.156235 Lucifer is gonna date Ecenaz
+2017-03-27 21:36:09.156235 Adam is gonna date Guliston
+2017-03-27 21:36:09.156235 Kira is gonna date Sansa
+2017-03-27 21:36:09.156235 Here starts the Valentine week of February:-------------------------------------------------
+2017-03-27 21:36:09.156235 Ajit gifts Portable Charger Amanda
+2017-03-27 21:36:09.156235 Ajit gifts Speakers Amanda
+2017-03-27 21:36:09.156235 Ajit gifts Chocolate Amanda
+2017-03-27 21:36:09.156235 Abhishek gifts Portable Charger Nina
+2017-03-27 21:36:09.156235 Abhishek gifts Speakers Nina
+2017-03-27 21:36:09.156235 Abhishek gifts Chocolate Nina
+2017-03-27 21:36:09.156735 Abhishek gifts Novel Nina
+2017-03-27 21:36:09.156735 Abhishek gifts Teddy Nina
+2017-03-27 21:36:09.156735 Rahul gifts Portable Charger Anjali
+2017-03-27 21:36:09.156735 Rahul gifts Speakers Anjali
+2017-03-27 21:36:09.156735 Rahul gifts Chocolate Anjali
+2017-03-27 21:36:09.156735 Rahul gifts Novel Anjali
+2017-03-27 21:36:09.156735 Rahul gifts Teddy Anjali
+2017-03-27 21:36:09.156735 Saurav gifts Portable Charger Veronica
+2017-03-27 21:36:09.156735 Saurav gifts Speakers Veronica
+2017-03-27 21:36:09.156735 Saurav gifts Chocolate Veronica
+2017-03-27 21:36:09.156735 Tim gifts Portable Charger Pooja
+2017-03-27 21:36:09.156735 Tim gifts Speakers Pooja
+2017-03-27 21:36:09.156735 Tim gifts Chocolate Pooja
+2017-03-27 21:36:09.156735 Tim gifts Novel Pooja
+2017-03-27 21:36:09.156735 Joe gifts Portable Charger Anny
+2017-03-27 21:36:09.156735 Joe gifts Speakers Anny
+2017-03-27 21:36:09.156735 Leonardo gifts Portable Charger Ankita
+2017-03-27 21:36:09.156735 Leonardo gifts Speakers Ankita
+2017-03-27 21:36:09.156735 Leonardo gifts Chocolate Ankita
+2017-03-27 21:36:09.156735 Leonardo gifts Novel Ankita
+2017-03-27 21:36:09.156735 Leonardo gifts Teddy Ankita
+2017-03-27 21:36:09.156735 Leonardo gifts Bracelet Ankita
+2017-03-27 21:36:09.156735 Tom gifts Portable Charger Neha
+2017-03-27 21:36:09.156735 Tom gifts Speakers Neha
+2017-03-27 21:36:09.156735 Tom gifts Chocolate Neha
+2017-03-27 21:36:09.156735 Tom gifts Novel Neha
+2017-03-27 21:36:09.156735 Tom gifts Teddy Neha
+2017-03-27 21:36:09.156735 Eminem gifts Portable Charger Jesse
+2017-03-27 21:36:09.157236 Eminem gifts Speakers Jesse
+2017-03-27 21:36:09.157236 Eminem gifts Chocolate Jesse
+2017-03-27 21:36:09.157236 Eminem gifts Novel Jesse
+2017-03-27 21:36:09.157236 Lucifer gifts Portable Charger Ecenaz
+2017-03-27 21:36:09.157236 Lucifer gifts Speakers Ecenaz
+2017-03-27 21:36:09.157236 Lucifer gifts Chocolate Ecenaz
+2017-03-27 21:36:09.157236 Adam gifts Portable Charger Guliston
+2017-03-27 21:36:09.157236 Adam gifts Speakers Guliston
+2017-03-27 21:36:09.157236 Adam gifts Chocolate Guliston
+2017-03-27 21:36:09.157236 Adam gifts Novel Guliston
+2017-03-27 21:36:09.157236 Adam gifts Teddy Guliston
+2017-03-27 21:36:09.157236 Adam gifts Bracelet Guliston
+2017-03-27 21:36:09.157236 Kira gifts Portable Charger Sansa
+2017-03-27 21:36:09.157236 Kira gifts Speakers Sansa
+2017-03-27 21:36:09.157236 Kira gifts Chocolate Sansa
+2017-03-27 21:36:09.157236 Kira gifts Novel Sansa
+2017-03-27 21:36:09.157236 3 least happiest couples are given below:--------------------------------------------------
+2017-03-27 21:36:09.157236 Tim and Pooja with happiness value: 608.7579108191051
+2017-03-27 21:36:09.157236 Adam and Guliston with happiness value: 592.0131481714548
+2017-03-27 21:36:09.157236 Leonardo and Ankita with happiness value: 205.25893402140395
+2017-03-27 21:36:09.157236 3 least compatible couples are given below:------------------------------------------------
+2017-03-27 21:36:09.157236 Leonardo and Ankita with happiness value: 272
+2017-03-27 21:36:09.157236 Abhishek and Nina with happiness value: 233
+2017-03-27 21:36:09.157236 Lucifer and Ecenaz with happiness value: 150
+2017-03-27 21:36:09.157236 Break-up period starts------------------------------------------------------------------------
+2017-03-27 21:36:09.157236 Tim and Pooja broke up! 
+2017-03-27 21:36:09.157236 Adam and Guliston broke up! 
+2017-03-27 21:36:09.157739 Leonardo and Ankita broke up! 
+2017-03-27 21:36:09.157739 Leonardo and Ankita broke up! 
+2017-03-27 21:36:09.157739 Abhishek and Nina broke up! 
+2017-03-27 21:36:09.157739 Lucifer and Ecenaz broke up! 
+2017-03-27 21:36:09.157739 Patch-up period starts------------------------------------------------------------------------
+2017-03-27 21:36:09.157739 Abhishek is gonna date Nina
+2017-03-27 21:36:09.157739 Tim is gonna date Pooja
+2017-03-27 21:36:09.157739 Lucifer is gonna date Ecenaz
+2017-03-27 21:36:09.157739 Adam is gonna date Guliston
