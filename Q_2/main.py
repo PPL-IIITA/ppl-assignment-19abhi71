@@ -60,9 +60,8 @@ for boy in B:
 			commit.append(s1)
 			break
 
-s1='\n'
-commit.append(s1)
-s1='Here starts the Valentine week of February:\n'
+
+s1='Here starts the Valentine week of February:--------------------------------------------------------------'
 commit.append(s1)
 
 
@@ -120,20 +119,28 @@ for item in commit:
 #print k most happiest couples
 fate.sort(key=lambda x:x[0],reverse=True)
 k=3
-print(str(k)+' most happiest couples are given below:')
+s1=str(k)+' most happiest couples are given below:--------------------------------------------------'
+commit.append(s1)
+print(s1)
 hi=[x[0] for x in fate]
 topk=hi[:k]
 for item in topk:
-	print(list(happyCouples.keys())[list(happyCouples.values()).index(item)] + ' with happiness value: '+str(item))	
+	s1=list(happyCouples.keys())[list(happyCouples.values()).index(item)] + ' with happiness value: '+str(item)
+	commit.append(s1)
+	print(s1)	
 print('\n')
 
 #print k most compatible couples
 fate.sort(key=lambda x:x[1],reverse=True)
 k=3
-print(str(k)+' most compatible couples are given below:')
+s1=str(k)+' most compatible couples are given below:'
+commit.append(s1)
+print(s1)
 hi=[x[1] for x in fate]
 topk=hi[:k]
 for item in topk:
-	print(list(compatibleCouples.keys())[list(compatibleCouples.values()).index(item)]+ ' with compatibility value: '+str(item))
+	s1=list(compatibleCouples.keys())[list(compatibleCouples.values()).index(item)]+ ' with compatibility value: '+str(item)
+	commit.append(s1)
+	print(s1)
 
 
