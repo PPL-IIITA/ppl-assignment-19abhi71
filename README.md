@@ -63,7 +63,7 @@ the best k happiest couples and the best k most compatible couples would be prin
  Terminal woul print k least happiest and k least compatible couples.
  ```
  
- **question 5**:
+ **Question 5**:
  ---
  
  ```
