@@ -47,11 +47,7 @@ for i in range(13):
 	g=Girl(girls[i],random.randint(10,100),random.randint(26,100),random.randint(12,5000),random.choice(crit),random.choice(typ2))
 	girlslist.append([g.name,g.attractiveness,g.intelligence,g.maintbudget,g.criteria,g.typ,g.status])
 	G.append(g)
-	girlsSortedByAttractiveness.append(g)
-
-G.sort(key=lambda x:x.maintbudget) #ordered by maintenance budget
-girlsSortedByAttractiveness.sort(key=lambda x:x.attractiveness,reverse=True)
-
+	
 #writing csv file
 with open("girls.csv","w") as f:
 	writer=csv.writer(f,delimiter=',')
@@ -61,18 +57,17 @@ def findDates():
 	for i in range(0,30):
 		if i%2==0:			
 			for boy in B:
-				for girl in girlsSortedByAttractiveness:
-					#if boy and girls are both ready to pair with each other and are already not commited
-					if boy.readytopair(girl) and girl.readytopair(boy) and boy.currStatus()=='S' and girl.currStatus()=='S':
-						#change their status
-						boy.changeStatus()
-						girl.changeStatus()
-						c=Couple(boy.name,boy.typ,girl.typ,girl.name,boy.budget,girl.maintbudget,boy.attractiveness,girl.attractiveness,boy.intelligence,girl.intelligence)
-						couplesList.append(c)
-						s1=boy.name+' is gonna date '+girl.name+" with girl's attraction value: "+str(girl.attractiveness)
-						commit.append(s1)
-						i+=1
-						break
+				girl=max(G,key=lambda x:x.attractiveness) #boys always choose the most attractive available girl
+				#if boy and girls are both ready to pair with each other and are already not commited
+				if boy.readytopair(girl) and girl.readytopair(boy) and boy.currStatus()=='S' and girl.currStatus()=='S':
+					c=Couple(boy.name,boy.typ,girl.typ,girl.name,boy.budget,girl.maintbudget,boy.attractiveness,girl.attractiveness,boy.intelligence,girl.intelligence)
+					couplesList.append(c)
+					s1=boy.name+' is gonna date '+girl.name+" with girl's attraction value: "+str(girl.attractiveness)
+					commit.append(s1)
+					i+=1
+					G.remove(girl)
+					B.remove(boy)
+					break
 				if i%2!=0:
 					break
 				
@@ -81,13 +76,12 @@ def findDates():
 				for boy in B:
 					#if boy and girls are both ready to pair with each other and are already not commited
 					if boy.readytopair(girl) and girl.readytopair(boy) and boy.currStatus()=='S' and girl.currStatus()=='S':
-						#change their status
-						boy.changeStatus()
-						girl.changeStatus()
 						c=Couple(boy.name,boy.typ,girl.typ,girl.name,boy.budget,girl.maintbudget,boy.attractiveness,girl.attractiveness,boy.intelligence,girl.intelligence)
 						couplesList.append(c)
 						s1=girl.name+' is gonna date '+boy.name
 						commit.append(s1)
+						G.remove(girl)
+						B.remove(boy)
 						i+=1
 						break
 				if i%2==0:
