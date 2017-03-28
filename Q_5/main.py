@@ -42,12 +42,12 @@ with open("guys.csv","w") as h:
 
 #generating a list named G of girl objects and girlslist with respective values of object for writing to csv
 
-girlsSortedByAttractiveness=[]
 for i in range(13):
 	g=Girl(girls[i],random.randint(10,100),random.randint(26,100),random.randint(12,5000),random.choice(crit),random.choice(typ2))
 	girlslist.append([g.name,g.attractiveness,g.intelligence,g.maintbudget,g.criteria,g.typ,g.status])
 	G.append(g)
-	
+
+G.sort(key=lambda x:x.maintbudget) #ordered by maintenance budget
 #writing csv file
 with open("girls.csv","w") as f:
 	writer=csv.writer(f,delimiter=',')
