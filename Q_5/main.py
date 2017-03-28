@@ -54,7 +54,7 @@ with open("girls.csv","w") as f:
 	writer.writerows(girlslist)
 
 def findDates():	
-	for i in range(0,30):
+	for i in range(0,100):
 		if i%2==0:			
 			for boy in B:
 				girl=max(G,key=lambda x:x.attractiveness) #boys always choose the most attractive available girl
