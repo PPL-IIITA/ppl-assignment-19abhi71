@@ -62,6 +62,18 @@ the best k happiest couples and the best k most compatible couples would be prin
  Breakup would be performed after Valentines day of the least k happy couples. Assignment new (different) boyfriends to the girls who broke up.
  Terminal woul print k least happiest and k least compatible couples.
  ```
+ 
+ **question 5**:
+ ---
+ 
+ ```
+ Rather than making couples by taking girls one by one as in question 1, we create a different mechanism. First one girl chooses a boy, then one boy choses a girl, and so on. The girl list is ordered by maintenance cost, while the boy list is ordered by attractiveness. 
+ 
+ The boys always chose the most attractive available girl which can be seen in the log file as girls' attractiveness value is also printed there. 
+ 
+ The happiest k couples are printed on the screen.
+ 
+ ```
 * Events will be logged in log.txt file
 
 * CSV files generated - boys.csv,girls.csv
