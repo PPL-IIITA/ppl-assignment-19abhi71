@@ -1,78 +1,49 @@
-2017-03-28 13:54:09.286371 Ajit is gonna date Pooja with girl's attraction value: 18
-2017-03-28 13:54:09.286371 Ecenaz is gonna date Joe
-2017-03-28 13:54:09.286371 Rahul is gonna date Jesse with girl's attraction value: 95
-2017-03-28 13:54:09.286371 Sansa is gonna date Dante
-2017-03-28 13:54:09.286371 Michael is gonna date Veronica with girl's attraction value: 73
-2017-03-28 13:54:09.286371 Nina is gonna date Light
-2017-03-28 13:54:09.286371 Leonardo is gonna date Ozge with girl's attraction value: 22
-2017-03-28 13:54:09.286371 Neha is gonna date Sam
-2017-03-28 13:54:09.286371 Eminem is gonna date Anny with girl's attraction value: 83
-2017-03-28 13:54:09.286371 Amanda is gonna date Walter
-2017-03-28 13:54:09.286371 Here starts the Valentine week of February:-------------------------------------------------
-2017-03-28 13:54:09.286872 Ajit gifts Novel Pooja
-2017-03-28 13:54:09.286872 Ajit gifts Game Pooja
-2017-03-28 13:54:09.286872 Ajit gifts Speakers Pooja
-2017-03-28 13:54:09.286872 Ajit gifts earrings Pooja
-2017-03-28 13:54:09.286872 Ajit gifts Portable Charger Pooja
-2017-03-28 13:54:09.286872 Joe gifts Novel Ecenaz
-2017-03-28 13:54:09.286872 Joe gifts Game Ecenaz
-2017-03-28 13:54:09.286872 Joe gifts Speakers Ecenaz
-2017-03-28 13:54:09.286872 Joe gifts earrings Ecenaz
-2017-03-28 13:54:09.286872 Rahul gifts Novel Jesse
-2017-03-28 13:54:09.286872 Rahul gifts Game Jesse
-2017-03-28 13:54:09.286872 Rahul gifts Speakers Jesse
-2017-03-28 13:54:09.286872 Rahul gifts earrings Jesse
-2017-03-28 13:54:09.286872 Rahul gifts Portable Charger Jesse
-2017-03-28 13:54:09.286872 Rahul gifts Perfume Jesse
-2017-03-28 13:54:09.286872 Rahul gifts Book Jesse
-2017-03-28 13:54:09.286872 Dante gifts Novel Sansa
-2017-03-28 13:54:09.286872 Dante gifts Game Sansa
-2017-03-28 13:54:09.286872 Dante gifts Speakers Sansa
-2017-03-28 13:54:09.286872 Dante gifts earrings Sansa
-2017-03-28 13:54:09.286872 Dante gifts Portable Charger Sansa
-2017-03-28 13:54:09.286872 Dante gifts Perfume Sansa
-2017-03-28 13:54:09.286872 Michael gifts Novel Veronica
-2017-03-28 13:54:09.286872 Michael gifts Game Veronica
-2017-03-28 13:54:09.286872 Michael gifts Speakers Veronica
-2017-03-28 13:54:09.286872 Michael gifts earrings Veronica
-2017-03-28 13:54:09.286872 Michael gifts Portable Charger Veronica
-2017-03-28 13:54:09.286872 Michael gifts Perfume Veronica
-2017-03-28 13:54:09.286872 Michael gifts Book Veronica
-2017-03-28 13:54:09.286872 Light gifts Novel Nina
-2017-03-28 13:54:09.286872 Light gifts Game Nina
-2017-03-28 13:54:09.286872 Light gifts Speakers Nina
-2017-03-28 13:54:09.286872 Light gifts earrings Nina
-2017-03-28 13:54:09.286872 Light gifts Portable Charger Nina
-2017-03-28 13:54:09.286872 Light gifts Perfume Nina
-2017-03-28 13:54:09.286872 Leonardo gifts Novel Ozge
-2017-03-28 13:54:09.286872 Leonardo gifts Game Ozge
-2017-03-28 13:54:09.286872 Leonardo gifts Speakers Ozge
-2017-03-28 13:54:09.286872 Leonardo gifts earrings Ozge
-2017-03-28 13:54:09.286872 Leonardo gifts Portable Charger Ozge
-2017-03-28 13:54:09.286872 Leonardo gifts Perfume Ozge
-2017-03-28 13:54:09.287372 Leonardo gifts Book Ozge
-2017-03-28 13:54:09.287372 Sam gifts Novel Neha
-2017-03-28 13:54:09.287372 Sam gifts Game Neha
-2017-03-28 13:54:09.287372 Sam gifts Speakers Neha
-2017-03-28 13:54:09.287372 Sam gifts earrings Neha
-2017-03-28 13:54:09.287372 Sam gifts Portable Charger Neha
-2017-03-28 13:54:09.287372 Sam gifts Perfume Neha
-2017-03-28 13:54:09.287372 Sam gifts Book Neha
-2017-03-28 13:54:09.287372 Eminem gifts Novel Anny
-2017-03-28 13:54:09.287372 Eminem gifts Game Anny
-2017-03-28 13:54:09.287372 Eminem gifts Speakers Anny
-2017-03-28 13:54:09.287372 Eminem gifts earrings Anny
-2017-03-28 13:54:09.287372 Eminem gifts Portable Charger Anny
-2017-03-28 13:54:09.287372 Eminem gifts Perfume Anny
-2017-03-28 13:54:09.287372 Eminem gifts Book Anny
-2017-03-28 13:54:09.287372 Walter gifts Novel Amanda
-2017-03-28 13:54:09.287372 Walter gifts Game Amanda
-2017-03-28 13:54:09.287372 Walter gifts Speakers Amanda
-2017-03-28 13:54:09.287372 Walter gifts earrings Amanda
-2017-03-28 13:54:09.287372 Walter gifts Portable Charger Amanda
-2017-03-28 13:54:09.287372 Walter gifts Perfume Amanda
-2017-03-28 13:54:09.287372 Walter gifts Book Amanda
-2017-03-28 13:54:09.287372 3 happiest couples are given below:--------------------------------------------------
-2017-03-28 13:54:09.287372 Leonardo and Ozge with happiness value: 24302
-2017-03-28 13:54:09.287372 Light and Nina with happiness value: 19857
-2017-03-28 13:54:09.287372 Ajit and Pooja with happiness value: 2511
+2017-03-28 14:07:52.721951 Kira is gonna date Pooja with girl's attraction value: 93
+2017-03-28 14:07:52.721951 Sansa is gonna date Dante
+2017-03-28 14:07:52.721951 Saurav is gonna date Veronica with girl's attraction value: 91
+2017-03-28 14:07:52.721951 Guliston is gonna date Joe
+2017-03-28 14:07:52.721951 Adam is gonna date Amanda with girl's attraction value: 75
+2017-03-28 14:07:52.721951 Jesse is gonna date Eminem
+2017-03-28 14:07:52.721951 Michael is gonna date Anjali with girl's attraction value: 24
+2017-03-28 14:07:52.721951 Nina is gonna date Ajit
+2017-03-28 14:07:52.721951 Here starts the Valentine week of February:-------------------------------------------------
+2017-03-28 14:07:52.721951 Kira gifts earrings Pooja
+2017-03-28 14:07:52.721951 Kira gifts Cookies Pooja
+2017-03-28 14:07:52.721951 Dante gifts earrings Sansa
+2017-03-28 14:07:52.721951 Dante gifts Cookies Sansa
+2017-03-28 14:07:52.721951 Dante gifts Perfume Sansa
+2017-03-28 14:07:52.721951 Saurav gifts earrings Veronica
+2017-03-28 14:07:52.721951 Saurav gifts Cookies Veronica
+2017-03-28 14:07:52.721951 Saurav gifts Perfume Veronica
+2017-03-28 14:07:52.721951 Saurav gifts Novel Veronica
+2017-03-28 14:07:52.721951 Saurav gifts Book Veronica
+2017-03-28 14:07:52.722452 Saurav gifts Chocolate Veronica
+2017-03-28 14:07:52.722452 Joe gifts earrings Guliston
+2017-03-28 14:07:52.722452 Joe gifts Cookies Guliston
+2017-03-28 14:07:52.722452 Joe gifts Perfume Guliston
+2017-03-28 14:07:52.722452 Joe gifts Novel Guliston
+2017-03-28 14:07:52.722452 Adam gifts earrings Amanda
+2017-03-28 14:07:52.722452 Adam gifts Cookies Amanda
+2017-03-28 14:07:52.722452 Adam gifts Perfume Amanda
+2017-03-28 14:07:52.722452 Adam gifts Novel Amanda
+2017-03-28 14:07:52.722452 Adam gifts Book Amanda
+2017-03-28 14:07:52.722452 Eminem gifts earrings Jesse
+2017-03-28 14:07:52.722452 Eminem gifts Cookies Jesse
+2017-03-28 14:07:52.722452 Eminem gifts Perfume Jesse
+2017-03-28 14:07:52.722452 Eminem gifts Novel Jesse
+2017-03-28 14:07:52.722452 Eminem gifts Book Jesse
+2017-03-28 14:07:52.722452 Michael gifts earrings Anjali
+2017-03-28 14:07:52.722452 Michael gifts Cookies Anjali
+2017-03-28 14:07:52.722452 Michael gifts Perfume Anjali
+2017-03-28 14:07:52.722452 Michael gifts Novel Anjali
+2017-03-28 14:07:52.722452 Michael gifts Book Anjali
+2017-03-28 14:07:52.722452 Ajit gifts earrings Nina
+2017-03-28 14:07:52.722452 Ajit gifts Cookies Nina
+2017-03-28 14:07:52.722452 Ajit gifts Perfume Nina
+2017-03-28 14:07:52.722452 Ajit gifts Novel Nina
+2017-03-28 14:07:52.722452 Ajit gifts Book Nina
+2017-03-28 14:07:52.722452 Ajit gifts Chocolate Nina
+2017-03-28 14:07:52.722452 3 happiest couples are given below:--------------------------------------------------
+2017-03-28 14:07:52.722452 Kira and Pooja with happiness value: 358868
+2017-03-28 14:07:52.722952 Joe and Guliston with happiness value: 8147
+2017-03-28 14:07:52.722952 Saurav and Veronica with happiness value: 5713
