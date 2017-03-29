@@ -51,15 +51,17 @@ Python 3.5.2
  ---
  
  ``` 
- After allocating boyfriends to all girls in the same order as given in the input, and after performing gifting to all girls as per     logic,log file would contain all gift details of gift exchanges between all couples.
-the best k happiest couples and the best k most compatible couples would be printed on the screen.
+ After allocating boyfriends to all girls in the same order as given in the input, and after performing gifting to all girls as per     logic,log file would contain all gift details of gift exchanges between all couples.k is taken 3 in main.
+ 
+The best k happiest couples and the best k most compatible couples would be printed on the screen.
  ```
  
  **Question 4**:
  ---
  
  ```
- Breakup would be performed after Valentines day of the least k happy couples. Assignment new (different) boyfriends to the girls who broke up.
+ Breakup would be performed after Valentines day of the least k happy couples. Assignment new (different) boyfriends to the girls who broke up.k is taken 3 in main.
+ 
  Terminal woul print k least happiest and k least compatible couples.
  ```
  
@@ -71,9 +73,20 @@ the best k happiest couples and the best k most compatible couples would be prin
  
  The boys always chose the most attractive available girl which can be seen in the log file as girls' attractiveness value is also printed there. 
  
- The happiest k couples are printed on the screen.
+ The happiest k couples are printed on the screen.k is taken 3 in main.
  
  ```
+ 
+ **Question 6**:
+ ---
+ 
+ ```
+ Supposing that gifting is not limited to Valentines day alone, but t days in a calendar month, well-marked. After
+every such day, couples with happiness less than t break up and form new couples.t is taken in main to be 10.
+
+All this information would be on the terminal.The gifting process happening on each day can be seen in log.txt.
+```
+
 * Events will be logged in log.txt file
 
 * CSV files generated - boys.csv,girls.csv
