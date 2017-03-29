@@ -1,0 +1,410 @@
+2017-03-29 20:46:39.482470 -------------------Days for Gifting are:-------------------------------------------------
+2017-03-29 20:46:39.482470 3
+2017-03-29 20:46:39.482470 6
+2017-03-29 20:46:39.482470 9
+2017-03-29 20:46:39.482470 12
+2017-03-29 20:46:39.482470 15
+2017-03-29 20:46:39.482470 18
+2017-03-29 20:46:39.482470 21
+2017-03-29 20:46:39.482470 24
+2017-03-29 20:46:39.482470 27
+2017-03-29 20:46:39.482470 Ajit is gonna date Amanda
+2017-03-29 20:46:39.482470 Tussank is gonna date Sansa
+2017-03-29 20:46:39.482470 Saurav is gonna date Anjali
+2017-03-29 20:46:39.482470 Tim is gonna date Guliston
+2017-03-29 20:46:39.482470 Leonardo is gonna date Nina
+2017-03-29 20:46:39.482470 Sam is gonna date Ankita
+2017-03-29 20:46:39.482470 Lucifer is gonna date Veronica
+2017-03-29 20:46:39.482470 Walter is gonna date Pooja
+2017-03-29 20:46:39.482470 -------------------Here starts the Valentine week of February:-------------------------------------------------
+2017-03-29 20:46:39.482969 -------------------On date 3, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.482969 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.482969 Ajit gifts Game Amanda
+2017-03-29 20:46:39.482969 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.482969 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.482969 Ajit gifts Book Amanda
+2017-03-29 20:46:39.482969 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.482969 Tussank gifts Game Sansa
+2017-03-29 20:46:39.482969 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.482969 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.482969 Saurav gifts Game Anjali
+2017-03-29 20:46:39.482969 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.482969 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.482969 Saurav gifts Book Anjali
+2017-03-29 20:46:39.482969 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.482969 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.482969 Tim gifts Game Guliston
+2017-03-29 20:46:39.482969 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.482969 Tim gifts Purse Guliston
+2017-03-29 20:46:39.482969 Tim gifts Book Guliston
+2017-03-29 20:46:39.482969 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.482969 Leonardo gifts Game Nina
+2017-03-29 20:46:39.482969 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.482969 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.482969 Leonardo gifts Book Nina
+2017-03-29 20:46:39.482969 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.482969 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.482969 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.482969 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.482969 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.482969 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.482969 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.483473 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.483473 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.483473 Walter gifts Game Pooja
+2017-03-29 20:46:39.483473 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.483473 Walter gifts Purse Pooja
+2017-03-29 20:46:39.483473 Walter gifts Book Pooja
+2017-03-29 20:46:39.483473 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.483473 -------------------Total 0 couples broke up on date 4!-----------------------------------
+2017-03-29 20:46:39.483473 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.483473 -------------------On date 6, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.483473 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.483473 Ajit gifts Game Amanda
+2017-03-29 20:46:39.483473 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.483473 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.483473 Ajit gifts Book Amanda
+2017-03-29 20:46:39.483473 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.483473 Tussank gifts Game Sansa
+2017-03-29 20:46:39.483473 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.483473 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.483473 Saurav gifts Game Anjali
+2017-03-29 20:46:39.483473 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.483473 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.483473 Saurav gifts Book Anjali
+2017-03-29 20:46:39.483473 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.483473 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.483473 Tim gifts Game Guliston
+2017-03-29 20:46:39.483473 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.483473 Tim gifts Purse Guliston
+2017-03-29 20:46:39.483473 Tim gifts Book Guliston
+2017-03-29 20:46:39.483473 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.483473 Leonardo gifts Game Nina
+2017-03-29 20:46:39.483473 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.483473 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.483473 Leonardo gifts Book Nina
+2017-03-29 20:46:39.483473 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.483473 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.483473 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.483473 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.483473 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.483473 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.483473 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.483473 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.483473 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.483473 Walter gifts Game Pooja
+2017-03-29 20:46:39.483473 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.483473 Walter gifts Purse Pooja
+2017-03-29 20:46:39.483972 Walter gifts Book Pooja
+2017-03-29 20:46:39.483972 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.483972 -------------------Total 0 couples broke up on date 7!-----------------------------------
+2017-03-29 20:46:39.483972 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.483972 -------------------On date 9, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.483972 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.483972 Ajit gifts Game Amanda
+2017-03-29 20:46:39.483972 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.483972 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.483972 Ajit gifts Book Amanda
+2017-03-29 20:46:39.483972 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.483972 Tussank gifts Game Sansa
+2017-03-29 20:46:39.483972 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.483972 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.483972 Saurav gifts Game Anjali
+2017-03-29 20:46:39.483972 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.483972 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.483972 Saurav gifts Book Anjali
+2017-03-29 20:46:39.483972 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.483972 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.483972 Tim gifts Game Guliston
+2017-03-29 20:46:39.483972 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.483972 Tim gifts Purse Guliston
+2017-03-29 20:46:39.483972 Tim gifts Book Guliston
+2017-03-29 20:46:39.483972 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.483972 Leonardo gifts Game Nina
+2017-03-29 20:46:39.483972 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.483972 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.483972 Leonardo gifts Book Nina
+2017-03-29 20:46:39.483972 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.483972 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.483972 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.483972 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.483972 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.483972 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.483972 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.483972 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.483972 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.484470 Walter gifts Game Pooja
+2017-03-29 20:46:39.484470 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.484470 Walter gifts Purse Pooja
+2017-03-29 20:46:39.484470 Walter gifts Book Pooja
+2017-03-29 20:46:39.484470 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.484470 -------------------Total 0 couples broke up on date 10!-----------------------------------
+2017-03-29 20:46:39.484470 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.484470 -------------------On date 12, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.484470 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.484470 Ajit gifts Game Amanda
+2017-03-29 20:46:39.484470 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.484470 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.484470 Ajit gifts Book Amanda
+2017-03-29 20:46:39.484470 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.484470 Tussank gifts Game Sansa
+2017-03-29 20:46:39.484470 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.484971 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.484971 Saurav gifts Game Anjali
+2017-03-29 20:46:39.484971 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.484971 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.484971 Saurav gifts Book Anjali
+2017-03-29 20:46:39.484971 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.484971 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.484971 Tim gifts Game Guliston
+2017-03-29 20:46:39.484971 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.484971 Tim gifts Purse Guliston
+2017-03-29 20:46:39.484971 Tim gifts Book Guliston
+2017-03-29 20:46:39.484971 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.484971 Leonardo gifts Game Nina
+2017-03-29 20:46:39.484971 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.484971 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.484971 Leonardo gifts Book Nina
+2017-03-29 20:46:39.484971 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.484971 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.484971 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.484971 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.484971 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.484971 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.484971 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.484971 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.484971 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.484971 Walter gifts Game Pooja
+2017-03-29 20:46:39.484971 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.484971 Walter gifts Purse Pooja
+2017-03-29 20:46:39.485472 Walter gifts Book Pooja
+2017-03-29 20:46:39.485472 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.485472 Ajit and Amanda broke up! on date 13
+2017-03-29 20:46:39.485472 -------------------Total 1 couples broke up on date 13!-----------------------------------
+2017-03-29 20:46:39.485472 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.485472 Ajit is gonna date Amanda
+2017-03-29 20:46:39.485472 -------------------On date 15, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.485472 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.485472 Tussank gifts Game Sansa
+2017-03-29 20:46:39.485472 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.485472 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.485472 Saurav gifts Game Anjali
+2017-03-29 20:46:39.485472 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.485472 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.485472 Saurav gifts Book Anjali
+2017-03-29 20:46:39.485472 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.485472 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.485472 Tim gifts Game Guliston
+2017-03-29 20:46:39.485472 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.485472 Tim gifts Purse Guliston
+2017-03-29 20:46:39.485472 Tim gifts Book Guliston
+2017-03-29 20:46:39.485472 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.485472 Leonardo gifts Game Nina
+2017-03-29 20:46:39.485472 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.485472 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.485472 Leonardo gifts Book Nina
+2017-03-29 20:46:39.485472 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.485972 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.485972 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.485972 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.485972 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.485972 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.485972 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.485972 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.485972 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.485972 Walter gifts Game Pooja
+2017-03-29 20:46:39.485972 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.485972 Walter gifts Purse Pooja
+2017-03-29 20:46:39.485972 Walter gifts Book Pooja
+2017-03-29 20:46:39.485972 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.485972 Ajit gifts Game Amanda
+2017-03-29 20:46:39.485972 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.485972 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.485972 Ajit gifts Book Amanda
+2017-03-29 20:46:39.485972 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.485972 Lucifer and Veronica broke up! on date 16
+2017-03-29 20:46:39.485972 Ajit and Amanda broke up! on date 16
+2017-03-29 20:46:39.485972 -------------------Total 2 couples broke up on date 16!-----------------------------------
+2017-03-29 20:46:39.485972 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.485972 Ajit is gonna date Amanda
+2017-03-29 20:46:39.485972 Lucifer is gonna date Veronica
+2017-03-29 20:46:39.485972 -------------------On date 18, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.485972 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.485972 Tussank gifts Game Sansa
+2017-03-29 20:46:39.485972 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.485972 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.485972 Saurav gifts Game Anjali
+2017-03-29 20:46:39.485972 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.485972 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.485972 Saurav gifts Book Anjali
+2017-03-29 20:46:39.485972 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.486479 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.486479 Tim gifts Game Guliston
+2017-03-29 20:46:39.486479 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.486479 Tim gifts Purse Guliston
+2017-03-29 20:46:39.486479 Tim gifts Book Guliston
+2017-03-29 20:46:39.486479 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.486479 Leonardo gifts Game Nina
+2017-03-29 20:46:39.486479 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.486479 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.486479 Leonardo gifts Book Nina
+2017-03-29 20:46:39.486479 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.486479 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.486479 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.486479 Walter gifts Game Pooja
+2017-03-29 20:46:39.486479 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.486479 Walter gifts Purse Pooja
+2017-03-29 20:46:39.486479 Walter gifts Book Pooja
+2017-03-29 20:46:39.486479 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.486479 Ajit gifts Game Amanda
+2017-03-29 20:46:39.486479 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.486479 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.486479 Ajit gifts Book Amanda
+2017-03-29 20:46:39.486479 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.486976 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.486976 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.486976 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.486976 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.486976 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.486976 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.486976 Lucifer and Veronica broke up! on date 19
+2017-03-29 20:46:39.486976 Ajit and Amanda broke up! on date 19
+2017-03-29 20:46:39.486976 -------------------Total 2 couples broke up on date 19!-----------------------------------
+2017-03-29 20:46:39.486976 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.486976 Ajit is gonna date Amanda
+2017-03-29 20:46:39.486976 Lucifer is gonna date Veronica
+2017-03-29 20:46:39.486976 -------------------On date 21, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.486976 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.486976 Tussank gifts Game Sansa
+2017-03-29 20:46:39.486976 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.486976 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.486976 Saurav gifts Game Anjali
+2017-03-29 20:46:39.486976 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.486976 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.486976 Saurav gifts Book Anjali
+2017-03-29 20:46:39.486976 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.486976 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.486976 Tim gifts Game Guliston
+2017-03-29 20:46:39.486976 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.486976 Tim gifts Purse Guliston
+2017-03-29 20:46:39.486976 Tim gifts Book Guliston
+2017-03-29 20:46:39.486976 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.486976 Leonardo gifts Game Nina
+2017-03-29 20:46:39.486976 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.486976 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.486976 Leonardo gifts Book Nina
+2017-03-29 20:46:39.487473 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.487473 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.487473 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.487473 Walter gifts Game Pooja
+2017-03-29 20:46:39.487473 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.487473 Walter gifts Purse Pooja
+2017-03-29 20:46:39.487473 Walter gifts Book Pooja
+2017-03-29 20:46:39.487473 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.487473 Ajit gifts Game Amanda
+2017-03-29 20:46:39.487473 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.487473 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.487473 Ajit gifts Book Amanda
+2017-03-29 20:46:39.487473 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.487473 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.487473 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.487473 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.487473 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.487473 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.487473 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.487974 Lucifer and Veronica broke up! on date 22
+2017-03-29 20:46:39.487974 Ajit and Amanda broke up! on date 22
+2017-03-29 20:46:39.487974 -------------------Total 2 couples broke up on date 22!-----------------------------------
+2017-03-29 20:46:39.487974 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.487974 Ajit is gonna date Amanda
+2017-03-29 20:46:39.487974 Lucifer is gonna date Veronica
+2017-03-29 20:46:39.487974 -------------------On date 24, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.487974 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.487974 Tussank gifts Game Sansa
+2017-03-29 20:46:39.487974 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.487974 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.487974 Saurav gifts Game Anjali
+2017-03-29 20:46:39.487974 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.487974 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.487974 Saurav gifts Book Anjali
+2017-03-29 20:46:39.487974 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.487974 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.487974 Tim gifts Game Guliston
+2017-03-29 20:46:39.487974 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.487974 Tim gifts Purse Guliston
+2017-03-29 20:46:39.487974 Tim gifts Book Guliston
+2017-03-29 20:46:39.487974 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.487974 Leonardo gifts Game Nina
+2017-03-29 20:46:39.487974 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.487974 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.487974 Leonardo gifts Book Nina
+2017-03-29 20:46:39.487974 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.487974 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.487974 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.487974 Walter gifts Game Pooja
+2017-03-29 20:46:39.487974 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.487974 Walter gifts Purse Pooja
+2017-03-29 20:46:39.487974 Walter gifts Book Pooja
+2017-03-29 20:46:39.488474 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.488474 Ajit gifts Game Amanda
+2017-03-29 20:46:39.488474 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.488474 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.488474 Ajit gifts Book Amanda
+2017-03-29 20:46:39.488474 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.488474 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.488474 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.488474 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.488474 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.488474 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.488474 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.488474 Lucifer and Veronica broke up! on date 25
+2017-03-29 20:46:39.488474 Ajit and Amanda broke up! on date 25
+2017-03-29 20:46:39.488474 -------------------Total 2 couples broke up on date 25!-----------------------------------
+2017-03-29 20:46:39.488474 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.488474 Ajit is gonna date Amanda
+2017-03-29 20:46:39.488474 Lucifer is gonna date Veronica
+2017-03-29 20:46:39.488474 -------------------On date 27, gifting process takes place as follows:---------------------------------
+2017-03-29 20:46:39.488474 Tussank gifts Portable Charger Sansa
+2017-03-29 20:46:39.488474 Tussank gifts Game Sansa
+2017-03-29 20:46:39.488474 Tussank gifts Perfume Sansa
+2017-03-29 20:46:39.488474 Saurav gifts Portable Charger Anjali
+2017-03-29 20:46:39.488474 Saurav gifts Game Anjali
+2017-03-29 20:46:39.488474 Saurav gifts Perfume Anjali
+2017-03-29 20:46:39.488474 Saurav gifts Purse Anjali
+2017-03-29 20:46:39.488474 Saurav gifts Book Anjali
+2017-03-29 20:46:39.488474 Saurav gifts Speakers Anjali
+2017-03-29 20:46:39.488474 Tim gifts Portable Charger Guliston
+2017-03-29 20:46:39.488474 Tim gifts Game Guliston
+2017-03-29 20:46:39.488474 Tim gifts Perfume Guliston
+2017-03-29 20:46:39.488474 Tim gifts Purse Guliston
+2017-03-29 20:46:39.488474 Tim gifts Book Guliston
+2017-03-29 20:46:39.488474 Leonardo gifts Portable Charger Nina
+2017-03-29 20:46:39.488474 Leonardo gifts Game Nina
+2017-03-29 20:46:39.488474 Leonardo gifts Perfume Nina
+2017-03-29 20:46:39.488474 Leonardo gifts Purse Nina
+2017-03-29 20:46:39.488474 Leonardo gifts Book Nina
+2017-03-29 20:46:39.488474 Leonardo gifts Speakers Nina
+2017-03-29 20:46:39.488973 Sam gifts Portable Charger Ankita
+2017-03-29 20:46:39.488973 Walter gifts Portable Charger Pooja
+2017-03-29 20:46:39.488973 Walter gifts Game Pooja
+2017-03-29 20:46:39.488973 Walter gifts Perfume Pooja
+2017-03-29 20:46:39.488973 Walter gifts Purse Pooja
+2017-03-29 20:46:39.488973 Walter gifts Book Pooja
+2017-03-29 20:46:39.488973 Ajit gifts Portable Charger Amanda
+2017-03-29 20:46:39.488973 Ajit gifts Game Amanda
+2017-03-29 20:46:39.488973 Ajit gifts Perfume Amanda
+2017-03-29 20:46:39.488973 Ajit gifts Purse Amanda
+2017-03-29 20:46:39.488973 Ajit gifts Book Amanda
+2017-03-29 20:46:39.488973 Lucifer gifts Portable Charger Veronica
+2017-03-29 20:46:39.488973 Lucifer gifts Game Veronica
+2017-03-29 20:46:39.488973 Lucifer gifts Perfume Veronica
+2017-03-29 20:46:39.488973 Lucifer gifts Purse Veronica
+2017-03-29 20:46:39.488973 Lucifer gifts Book Veronica
+2017-03-29 20:46:39.488973 Lucifer gifts Speakers Veronica
+2017-03-29 20:46:39.488973 -------------------Break-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.488973 Lucifer and Veronica broke up! on date 28
+2017-03-29 20:46:39.488973 Ajit and Amanda broke up! on date 28
+2017-03-29 20:46:39.488973 -------------------Total 2 couples broke up on date 28!-----------------------------------
+2017-03-29 20:46:39.488973 -------------------Patch-up period starts------------------------------------------------------------------------
+2017-03-29 20:46:39.488973 Ajit is gonna date Amanda
+2017-03-29 20:46:39.488973 Lucifer is gonna date Veronica
