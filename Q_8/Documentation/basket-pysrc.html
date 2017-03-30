@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ascii"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+          "DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>basket</title>
+  <link rel="stylesheet" href="epydoc.css" type="text/css" />
+  <script type="text/javascript" src="epydoc.js"></script>
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="#204080"
+      alink="#204080">
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            >Q-8</th>
+          </tr></table></th>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td width="100%">
+      <span class="breadcrumbs">
+        Module&nbsp;basket
+      </span>
+    </td>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <!-- hide/show private -->
+        <tr><td align="right"><span class="options">[<a href="javascript:void(0);" class="privatelink"
+    onclick="toggle_private();">hide&nbsp;private</a>]</span></td></tr>
+        <tr><td align="right"><span class="options"
+            >[<a href="frames.html" target="_top">frames</a
+            >]&nbsp;|&nbsp;<a href="basket-pysrc.html"
+            target="_top">no&nbsp;frames</a>]</span></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h1 class="epydoc">Source Code for <a href="basket-module.html">Module basket</a></h1>
+<pre class="py-src">
+<a name="L1"></a><tt class="py-lineno"> 1</tt>  <tt class="py-line"><tt class="py-keyword">from</tt> <tt id="link-0" class="py-name" targets="Module gift=gift-module.html"><a title="gift" class="py-name" href="#" onclick="return doclink('link-0', 'gift', 'link-0');">gift</a></tt> <tt class="py-keyword">import</tt> <tt id="link-1" class="py-name" targets="Class gift.Gifts=gift.Gifts-class.html"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-1', 'Gifts', 'link-1');">Gifts</a></tt> </tt>
+<a name="L2"></a><tt class="py-lineno"> 2</tt>  <tt class="py-line"><tt class="py-keyword">from</tt> <tt id="link-2" class="py-name" targets="Module couples=couples-module.html"><a title="couples" class="py-name" href="#" onclick="return doclink('link-2', 'couples', 'link-2');">couples</a></tt> <tt class="py-keyword">import</tt> <tt id="link-3" class="py-name" targets="Class couples.Couple=couples.Couple-class.html"><a title="couples.Couple" class="py-name" href="#" onclick="return doclink('link-3', 'Couple', 'link-3');">Couple</a></tt> </tt>
+<a name="L3"></a><tt class="py-lineno"> 3</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">random</tt> </tt>
+<a name="L4"></a><tt class="py-lineno"> 4</tt>  <tt class="py-line"><tt class="py-keyword">import</tt> <tt class="py-name">operator</tt> </tt>
+<a name="L5"></a><tt class="py-lineno"> 5</tt>  <tt class="py-line"><tt class="py-keyword">from</tt> <tt class="py-name">datetime</tt> <tt class="py-keyword">import</tt> <tt class="py-name">datetime</tt> </tt>
+<a name="L6"></a><tt class="py-lineno"> 6</tt>  <tt class="py-line"> </tt>
+<a name="GiftBasket"></a><div id="GiftBasket-def"><a name="L7"></a><tt class="py-lineno"> 7</tt> <a class="py-toggle" href="#" id="GiftBasket-toggle" onclick="return toggle('GiftBasket');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="basket.GiftBasket-class.html">GiftBasket</a><tt class="py-op">:</tt> </tt>
+</div><div id="GiftBasket-collapsed" style="display:none;" pad="++" indent="++++"></div><div id="GiftBasket-expanded"><a name="GiftBasket.__init__"></a><div id="GiftBasket.__init__-def"><a name="L8"></a><tt class="py-lineno"> 8</tt> <a class="py-toggle" href="#" id="GiftBasket.__init__-toggle" onclick="return toggle('GiftBasket.__init__');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftBasket-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftBasket.__init__-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftBasket.__init__-expanded"><a name="L9"></a><tt class="py-lineno"> 9</tt>  <tt class="py-line">                <tt class="py-keyword">print</tt><tt class="py-op">(</tt><tt class="py-string">"Let's search for comitted boys:"</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L10"></a><tt class="py-lineno">10</tt>  <tt class="py-line"> </tt>
+<a name="L11"></a><tt class="py-lineno">11</tt>  <tt class="py-line">        <tt class="py-comment">#making gift-basket</tt> </tt>
+<a name="L12"></a><tt class="py-lineno">12</tt>  <tt class="py-line"> </tt>
+<a name="L13"></a><tt class="py-lineno">13</tt>  <tt class="py-line">        <tt id="link-4" class="py-name" targets="Variable basket.GiftBasket.giftBasket=basket.GiftBasket-class.html#giftBasket"><a title="basket.GiftBasket.giftBasket" class="py-name" href="#" onclick="return doclink('link-4', 'giftBasket', 'link-4');">giftBasket</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L14"></a><tt class="py-lineno">14</tt>  <tt class="py-line">        <tt id="link-5" class="py-name" targets="Variable basket.GiftBasket.cat=basket.GiftBasket-class.html#cat"><a title="basket.GiftBasket.cat" class="py-name" href="#" onclick="return doclink('link-5', 'cat', 'link-5');">cat</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'essential'</tt><tt class="py-op">,</tt><tt class="py-string">'luxury'</tt><tt class="py-op">,</tt><tt class="py-string">'utility'</tt><tt class="py-op">]</tt> </tt>
+<a name="L15"></a><tt class="py-lineno">15</tt>  <tt class="py-line">        <tt id="link-6" class="py-name" targets="Variable basket.GiftBasket.gifts=basket.GiftBasket-class.html#gifts"><a title="basket.GiftBasket.gifts" class="py-name" href="#" onclick="return doclink('link-6', 'gifts', 'link-6');">gifts</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-string">'Portable Charger'</tt><tt class="py-op">,</tt><tt class="py-string">'Sony Camera'</tt><tt class="py-op">,</tt><tt class="py-string">'earrings'</tt><tt class="py-op">,</tt><tt class="py-string">'Book'</tt><tt class="py-op">,</tt><tt class="py-string">'Chocolate'</tt><tt class="py-op">,</tt><tt class="py-string">'Teddy'</tt><tt class="py-op">,</tt><tt class="py-string">'Perfume'</tt><tt class="py-op">,</tt><tt class="py-string">'Cookies'</tt><tt class="py-op">,</tt><tt class="py-string">'Speakers'</tt><tt class="py-op">,</tt><tt class="py-string">'Purse'</tt><tt class="py-op">,</tt><tt class="py-string">'Bracelet'</tt><tt class="py-op">,</tt><tt class="py-string">'Novel'</tt><tt class="py-op">,</tt><tt class="py-string">'Game'</tt><tt class="py-op">,</tt><tt class="py-string">'earphones'</tt><tt class="py-op">]</tt> </tt>
+<a name="L16"></a><tt class="py-lineno">16</tt>  <tt class="py-line">        <tt class="py-keyword">for</tt> <tt id="link-7" class="py-name" targets="Variable basket.GiftBasket.item=basket.GiftBasket-class.html#item"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-7', 'item', 'link-7');">item</a></tt> <tt class="py-keyword">in</tt> <tt id="link-8" class="py-name"><a title="basket.GiftBasket.gifts" class="py-name" href="#" onclick="return doclink('link-8', 'gifts', 'link-6');">gifts</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L17"></a><tt class="py-lineno">17</tt>  <tt class="py-line">                <tt id="link-9" class="py-name"><a title="basket.GiftBasket.giftBasket" class="py-name" href="#" onclick="return doclink('link-9', 'giftBasket', 'link-4');">giftBasket</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt id="link-10" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-10', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">(</tt><tt id="link-11" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-11', 'item', 'link-7');">item</a></tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">1</tt><tt class="py-op">,</tt><tt class="py-number">20</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt class="py-name">randint</tt><tt class="py-op">(</tt><tt class="py-number">1</tt><tt class="py-op">,</tt><tt class="py-number">20</tt><tt class="py-op">)</tt><tt class="py-op">,</tt><tt class="py-name">random</tt><tt class="py-op">.</tt><tt id="link-12" class="py-name" targets="Variable main.choice=main-module.html#choice"><a title="main.choice" class="py-name" href="#" onclick="return doclink('link-12', 'choice', 'link-12');">choice</a></tt><tt class="py-op">(</tt><tt id="link-13" class="py-name"><a title="basket.GiftBasket.cat" class="py-name" href="#" onclick="return doclink('link-13', 'cat', 'link-5');">cat</a></tt><tt class="py-op">)</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L18"></a><tt class="py-lineno">18</tt>  <tt class="py-line"> </tt>
+<a name="L19"></a><tt class="py-lineno">19</tt>  <tt class="py-line">        <tt id="link-14" class="py-name"><a title="basket.GiftBasket.giftBasket" class="py-name" href="#" onclick="return doclink('link-14', 'giftBasket', 'link-4');">giftBasket</a></tt><tt class="py-op">.</tt><tt class="py-name">sort</tt><tt class="py-op">(</tt><tt class="py-name">key</tt><tt class="py-op">=</tt><tt class="py-name">operator</tt><tt class="py-op">.</tt><tt class="py-name">attrgetter</tt><tt class="py-op">(</tt><tt class="py-string">'price'</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+</div><a name="L20"></a><tt class="py-lineno">20</tt>  <tt class="py-line"> </tt>
+<a name="L21"></a><tt class="py-lineno">21</tt>  <tt class="py-line"> </tt>
+<a name="L22"></a><tt class="py-lineno">22</tt>  <tt class="py-line"> </tt>
+<a name="GiftSelector1"></a><div id="GiftSelector1-def"><a name="L23"></a><tt class="py-lineno">23</tt> <a class="py-toggle" href="#" id="GiftSelector1-toggle" onclick="return toggle('GiftSelector1');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="basket.GiftSelector1-class.html">GiftSelector1</a><tt class="py-op">(</tt><tt class="py-base-class">GiftBasket</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector1-collapsed" style="display:none;" pad="++" indent="++++"></div><div id="GiftSelector1-expanded"><a name="L24"></a><tt class="py-lineno">24</tt>  <tt class="py-line">         </tt>
+<a name="GiftSelector1.__init__"></a><div id="GiftSelector1.__init__-def"><a name="L25"></a><tt class="py-lineno">25</tt> <a class="py-toggle" href="#" id="GiftSelector1.__init__-toggle" onclick="return toggle('GiftSelector1.__init__');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftSelector1-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt><tt class="py-param">couplesList</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector1.__init__-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftSelector1.__init__-expanded"><a name="L26"></a><tt class="py-lineno">26</tt>  <tt class="py-line">                <tt class="py-name">super</tt><tt class="py-op">(</tt><tt id="link-15" class="py-name" targets="Class basket.GiftSelector1=basket.GiftSelector1-class.html"><a title="basket.GiftSelector1" class="py-name" href="#" onclick="return doclink('link-15', 'GiftSelector1', 'link-15');">GiftSelector1</a></tt><tt class="py-op">,</tt><tt class="py-name">self</tt><tt class="py-op">)</tt><tt class="py-op">.</tt><tt id="link-16" class="py-name" targets="Method basket.GiftBasket.__init__()=basket.GiftBasket-class.html#__init__,Method basket.GiftSelector1.__init__()=basket.GiftSelector1-class.html#__init__,Method basket.GiftSelector2.__init__()=basket.GiftSelector2-class.html#__init__,Method boy.Boy.__init__()=boy.Boy-class.html#__init__,Method couples.Couple.__init__()=couples.Couple-class.html#__init__,Method gift.Gifts.__init__()=gift.Gifts-class.html#__init__,Method girl.Girl.__init__()=girl.Girl-class.html#__init__"><a title="basket.GiftBasket.__init__
+basket.GiftSelector1.__init__
+basket.GiftSelector2.__init__
+boy.Boy.__init__
+couples.Couple.__init__
+gift.Gifts.__init__
+girl.Girl.__init__" class="py-name" href="#" onclick="return doclink('link-16', '__init__', 'link-16');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L27"></a><tt class="py-lineno">27</tt>  <tt class="py-line">                <tt class="py-keyword">print</tt><tt class="py-op">(</tt><tt class="py-string">'Gift Selector 1 starts now-------------------------------------------------'</tt><tt class="py-op">)</tt> </tt>
+<a name="L28"></a><tt class="py-lineno">28</tt>  <tt class="py-line">                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-17" class="py-name" targets="Variable main.couplesList=main-module.html#couplesList"><a title="main.couplesList" class="py-name" href="#" onclick="return doclink('link-17', 'couplesList', 'link-17');">couplesList</a></tt><tt class="py-op">=</tt><tt id="link-18" class="py-name"><a title="main.couplesList" class="py-name" href="#" onclick="return doclink('link-18', 'couplesList', 'link-17');">couplesList</a></tt> </tt>
+<a name="L29"></a><tt class="py-lineno">29</tt>  <tt class="py-line">                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-19" class="py-name" targets="Variable main.commit=main-module.html#commit"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-19', 'commit', 'link-19');">commit</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+</div><a name="L30"></a><tt class="py-lineno">30</tt>  <tt class="py-line">                 </tt>
+<a name="L31"></a><tt class="py-lineno">31</tt>  <tt class="py-line">         </tt>
+<a name="GiftSelector1.assign"></a><div id="GiftSelector1.assign-def"><a name="L32"></a><tt class="py-lineno">32</tt> <a class="py-toggle" href="#" id="GiftSelector1.assign-toggle" onclick="return toggle('GiftSelector1.assign');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftSelector1-class.html#assign">assign</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector1.assign-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftSelector1.assign-expanded"><a name="L33"></a><tt class="py-lineno">33</tt>  <tt class="py-line"> </tt>
+<a name="L34"></a><tt class="py-lineno">34</tt>  <tt class="py-line">                <tt class="py-keyword">for</tt> <tt class="py-name">c</tt> <tt class="py-keyword">in</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-20" class="py-name"><a title="main.couplesList" class="py-name" href="#" onclick="return doclink('link-20', 'couplesList', 'link-17');">couplesList</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L35"></a><tt class="py-lineno">35</tt>  <tt class="py-line">                         </tt>
+<a name="L36"></a><tt class="py-lineno">36</tt>  <tt class="py-line">                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">before</tt><tt class="py-op">=</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">budget</tt> </tt>
+<a name="L37"></a><tt class="py-lineno">37</tt>  <tt class="py-line">                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">spent</tt><tt class="py-op">=</tt><tt class="py-number">0</tt> </tt>
+<a name="L38"></a><tt class="py-lineno">38</tt>  <tt class="py-line">                        <tt class="py-keyword">for</tt> <tt id="link-21" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-21', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-22" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-22', 'item', 'link-7');">item</a></tt> <tt class="py-keyword">in</tt> <tt id="link-23" class="py-name" targets="Class basket.GiftBasket=basket.GiftBasket-class.html"><a title="basket.GiftBasket" class="py-name" href="#" onclick="return doclink('link-23', 'GiftBasket', 'link-23');">GiftBasket</a></tt><tt class="py-op">.</tt><tt id="link-24" class="py-name"><a title="basket.GiftBasket.giftBasket" class="py-name" href="#" onclick="return doclink('link-24', 'giftBasket', 'link-4');">giftBasket</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L39"></a><tt class="py-lineno">39</tt>  <tt class="py-line">                                <tt class="py-keyword">if</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">before</tt><tt class="py-op">&lt;=</tt><tt class="py-number">0</tt> <tt class="py-keyword">or</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">spent</tt><tt class="py-op">&gt;=</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">maintbudget</tt><tt class="py-op">:</tt> </tt>
+<a name="L40"></a><tt class="py-lineno">40</tt>  <tt class="py-line">                                        <tt class="py-keyword">break</tt> </tt>
+<a name="L41"></a><tt class="py-lineno">41</tt>  <tt class="py-line">                                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">before</tt><tt class="py-op">-=</tt><tt id="link-25" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-25', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-26" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-26', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">price</tt> </tt>
+<a name="L42"></a><tt class="py-lineno">42</tt>  <tt class="py-line">                                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">spent</tt><tt class="py-op">+=</tt><tt id="link-27" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-27', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-28" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-28', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">price</tt> </tt>
+<a name="L43"></a><tt class="py-lineno">43</tt>  <tt class="py-line">                                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-29" class="py-name" targets="Variable main.s1=main-module.html#s1"><a title="main.s1" class="py-name" href="#" onclick="return doclink('link-29', 's1', 'link-29');">s1</a></tt><tt class="py-op">=</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">bf</tt><tt class="py-op">)</tt><tt class="py-op">+</tt><tt class="py-string">' gifts '</tt><tt class="py-op">+</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt id="link-30" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-30', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-31" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-31', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">name</tt><tt class="py-op">)</tt><tt class="py-op">+</tt><tt class="py-string">' '</tt><tt class="py-op">+</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">gf</tt><tt class="py-op">)</tt><tt class="py-op">+</tt><tt class="py-string">' of category: '</tt><tt class="py-op">+</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt id="link-32" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-32', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-33" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-33', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">category</tt><tt class="py-op">)</tt> </tt>
+<a name="L44"></a><tt class="py-lineno">44</tt>  <tt class="py-line">                                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-34" class="py-name"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-34', 'commit', 'link-19');">commit</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-35" class="py-name"><a title="main.s1" class="py-name" href="#" onclick="return doclink('link-35', 's1', 'link-29');">s1</a></tt><tt class="py-op">)</tt> </tt>
+</div><a name="L45"></a><tt class="py-lineno">45</tt>  <tt class="py-line"> </tt>
+<a name="L46"></a><tt class="py-lineno">46</tt>  <tt class="py-line">        <tt class="py-comment">#taking note of all commitments and gift exchanges with time stamps3</tt> </tt>
+<a name="GiftSelector1.writ"></a><div id="GiftSelector1.writ-def"><a name="L47"></a><tt class="py-lineno">47</tt> <a class="py-toggle" href="#" id="GiftSelector1.writ-toggle" onclick="return toggle('GiftSelector1.writ');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftSelector1-class.html#writ">writ</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector1.writ-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftSelector1.writ-expanded"><a name="L48"></a><tt class="py-lineno">48</tt>  <tt class="py-line"> </tt>
+<a name="L49"></a><tt class="py-lineno">49</tt>  <tt class="py-line">                <tt class="py-name">file</tt><tt class="py-op">=</tt><tt class="py-name">open</tt><tt class="py-op">(</tt><tt class="py-string">"log.txt"</tt><tt class="py-op">,</tt><tt class="py-string">"a+"</tt><tt class="py-op">)</tt> </tt>
+<a name="L50"></a><tt class="py-lineno">50</tt>  <tt class="py-line">                <tt class="py-keyword">for</tt> <tt id="link-36" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-36', 'item', 'link-7');">item</a></tt> <tt class="py-keyword">in</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-37" class="py-name"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-37', 'commit', 'link-19');">commit</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L51"></a><tt class="py-lineno">51</tt>  <tt class="py-line">                        <tt class="py-name">file</tt><tt class="py-op">.</tt><tt class="py-name">write</tt><tt class="py-op">(</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt class="py-name">datetime</tt><tt class="py-op">.</tt><tt class="py-name">now</tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L52"></a><tt class="py-lineno">52</tt>  <tt class="py-line">                        <tt class="py-name">file</tt><tt class="py-op">.</tt><tt class="py-name">write</tt><tt class="py-op">(</tt><tt class="py-string">" %s\n"</tt><tt class="py-op">%</tt><tt id="link-38" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-38', 'item', 'link-7');">item</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L53"></a><tt class="py-lineno">53</tt>  <tt class="py-line">                <tt class="py-name">file</tt><tt class="py-op">.</tt><tt class="py-name">close</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L54"></a><tt class="py-lineno">54</tt>  <tt class="py-line"> </tt>
+<a name="L55"></a><tt class="py-lineno">55</tt>  <tt class="py-line"> </tt>
+<a name="L56"></a><tt class="py-lineno">56</tt>  <tt class="py-line"> </tt>
+<a name="GiftSelector2"></a><div id="GiftSelector2-def"><a name="L57"></a><tt class="py-lineno">57</tt> <a class="py-toggle" href="#" id="GiftSelector2-toggle" onclick="return toggle('GiftSelector2');">-</a><tt class="py-line"><tt class="py-keyword">class</tt> <a class="py-def-name" href="basket.GiftSelector2-class.html">GiftSelector2</a><tt class="py-op">(</tt><tt class="py-base-class">GiftBasket</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector2-collapsed" style="display:none;" pad="++" indent="++++"></div><div id="GiftSelector2-expanded"><a name="L58"></a><tt class="py-lineno">58</tt>  <tt class="py-line">         </tt>
+<a name="GiftSelector2.__init__"></a><div id="GiftSelector2.__init__-def"><a name="L59"></a><tt class="py-lineno">59</tt> <a class="py-toggle" href="#" id="GiftSelector2.__init__-toggle" onclick="return toggle('GiftSelector2.__init__');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftSelector2-class.html#__init__">__init__</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">,</tt><tt class="py-param">couplesList</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector2.__init__-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftSelector2.__init__-expanded"><a name="L60"></a><tt class="py-lineno">60</tt>  <tt class="py-line">                <tt class="py-name">super</tt><tt class="py-op">(</tt><tt id="link-39" class="py-name" targets="Class basket.GiftSelector2=basket.GiftSelector2-class.html"><a title="basket.GiftSelector2" class="py-name" href="#" onclick="return doclink('link-39', 'GiftSelector2', 'link-39');">GiftSelector2</a></tt><tt class="py-op">,</tt><tt class="py-name">self</tt><tt class="py-op">)</tt><tt class="py-op">.</tt><tt id="link-40" class="py-name"><a title="basket.GiftBasket.__init__
+basket.GiftSelector1.__init__
+basket.GiftSelector2.__init__
+boy.Boy.__init__
+couples.Couple.__init__
+gift.Gifts.__init__
+girl.Girl.__init__" class="py-name" href="#" onclick="return doclink('link-40', '__init__', 'link-16');">__init__</a></tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+<a name="L61"></a><tt class="py-lineno">61</tt>  <tt class="py-line">                <tt class="py-keyword">print</tt><tt class="py-op">(</tt><tt class="py-string">'Gift Selector 2 starts now-------------------------------------------------'</tt><tt class="py-op">)</tt> </tt>
+<a name="L62"></a><tt class="py-lineno">62</tt>  <tt class="py-line">                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-41" class="py-name"><a title="main.couplesList" class="py-name" href="#" onclick="return doclink('link-41', 'couplesList', 'link-17');">couplesList</a></tt><tt class="py-op">=</tt><tt id="link-42" class="py-name"><a title="main.couplesList" class="py-name" href="#" onclick="return doclink('link-42', 'couplesList', 'link-17');">couplesList</a></tt> </tt>
+<a name="L63"></a><tt class="py-lineno">63</tt>  <tt class="py-line">                <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-43" class="py-name"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-43', 'commit', 'link-19');">commit</a></tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+</div><a name="L64"></a><tt class="py-lineno">64</tt>  <tt class="py-line">                 </tt>
+<a name="L65"></a><tt class="py-lineno">65</tt>  <tt class="py-line"> </tt>
+<a name="L66"></a><tt class="py-lineno">66</tt>  <tt class="py-line"> </tt>
+<a name="GiftSelector2.assign"></a><div id="GiftSelector2.assign-def"><a name="L67"></a><tt class="py-lineno">67</tt> <a class="py-toggle" href="#" id="GiftSelector2.assign-toggle" onclick="return toggle('GiftSelector2.assign');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftSelector2-class.html#assign">assign</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector2.assign-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftSelector2.assign-expanded"><a name="L68"></a><tt class="py-lineno">68</tt>  <tt class="py-line">                                 </tt>
+<a name="L69"></a><tt class="py-lineno">69</tt>  <tt class="py-line">                <tt class="py-keyword">for</tt> <tt class="py-name">c</tt> <tt class="py-keyword">in</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-44" class="py-name"><a title="main.couplesList" class="py-name" href="#" onclick="return doclink('link-44', 'couplesList', 'link-17');">couplesList</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L70"></a><tt class="py-lineno">70</tt>  <tt class="py-line">                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">a</tt><tt class="py-op">=</tt><tt class="py-op">[</tt><tt class="py-op">]</tt> </tt>
+<a name="L71"></a><tt class="py-lineno">71</tt>  <tt class="py-line">                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">before</tt><tt class="py-op">=</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">budget</tt> </tt>
+<a name="L72"></a><tt class="py-lineno">72</tt>  <tt class="py-line">                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">spent</tt><tt class="py-op">=</tt><tt class="py-number">0</tt> </tt>
+<a name="L73"></a><tt class="py-lineno">73</tt>  <tt class="py-line">                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">cnt</tt><tt class="py-op">=</tt><tt class="py-number">1</tt> </tt>
+<a name="L74"></a><tt class="py-lineno">74</tt>  <tt class="py-line">                        <tt class="py-keyword">for</tt> <tt id="link-45" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-45', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-46" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-46', 'item', 'link-7');">item</a></tt> <tt class="py-keyword">in</tt> <tt id="link-47" class="py-name"><a title="basket.GiftBasket" class="py-name" href="#" onclick="return doclink('link-47', 'GiftBasket', 'link-23');">GiftBasket</a></tt><tt class="py-op">.</tt><tt id="link-48" class="py-name"><a title="basket.GiftBasket.giftBasket" class="py-name" href="#" onclick="return doclink('link-48', 'giftBasket', 'link-4');">giftBasket</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L75"></a><tt class="py-lineno">75</tt>  <tt class="py-line">                                <tt class="py-keyword">if</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">before</tt><tt class="py-op">&lt;=</tt><tt class="py-number">0</tt> <tt class="py-keyword">and</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">cnt</tt><tt class="py-op">&gt;</tt><tt class="py-number">3</tt><tt class="py-op">:</tt> </tt>
+<a name="L76"></a><tt class="py-lineno">76</tt>  <tt class="py-line">                                        <tt class="py-keyword">break</tt> </tt>
+<a name="L77"></a><tt class="py-lineno">77</tt>  <tt class="py-line">                                <tt class="py-keyword">if</tt> <tt id="link-49" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-49', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-50" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-50', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">category</tt> <tt class="py-keyword">not</tt> <tt class="py-keyword">in</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">a</tt> <tt class="py-keyword">or</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">cnt</tt><tt class="py-op">&gt;</tt><tt class="py-number">3</tt><tt class="py-op">:</tt> </tt>
+<a name="L78"></a><tt class="py-lineno">78</tt>  <tt class="py-line">                                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">before</tt><tt class="py-op">-=</tt><tt id="link-51" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-51', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-52" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-52', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">price</tt> </tt>
+<a name="L79"></a><tt class="py-lineno">79</tt>  <tt class="py-line">                                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-53" class="py-name"><a title="main.s1" class="py-name" href="#" onclick="return doclink('link-53', 's1', 'link-29');">s1</a></tt><tt class="py-op">=</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">bf</tt><tt class="py-op">)</tt><tt class="py-op">+</tt><tt class="py-string">' gifts '</tt><tt class="py-op">+</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt id="link-54" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-54', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-55" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-55', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">name</tt><tt class="py-op">)</tt><tt class="py-op">+</tt><tt class="py-string">' '</tt><tt class="py-op">+</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt class="py-name">c</tt><tt class="py-op">.</tt><tt class="py-name">gf</tt><tt class="py-op">)</tt><tt class="py-op">+</tt><tt class="py-string">' of category: '</tt><tt class="py-op">+</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt id="link-56" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-56', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-57" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-57', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">category</tt><tt class="py-op">)</tt> </tt>
+<a name="L80"></a><tt class="py-lineno">80</tt>  <tt class="py-line">                                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-58" class="py-name"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-58', 'commit', 'link-19');">commit</a></tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-59" class="py-name"><a title="main.s1" class="py-name" href="#" onclick="return doclink('link-59', 's1', 'link-29');">s1</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L81"></a><tt class="py-lineno">81</tt>  <tt class="py-line">                                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">a</tt><tt class="py-op">.</tt><tt class="py-name">append</tt><tt class="py-op">(</tt><tt id="link-60" class="py-name"><a title="gift.Gifts" class="py-name" href="#" onclick="return doclink('link-60', 'Gifts', 'link-1');">Gifts</a></tt><tt class="py-op">.</tt><tt id="link-61" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-61', 'item', 'link-7');">item</a></tt><tt class="py-op">.</tt><tt class="py-name">category</tt><tt class="py-op">)</tt> </tt>
+<a name="L82"></a><tt class="py-lineno">82</tt>  <tt class="py-line">                                        <tt class="py-name">self</tt><tt class="py-op">.</tt><tt class="py-name">cnt</tt><tt class="py-op">+=</tt><tt class="py-number">1</tt> </tt>
+</div><a name="L83"></a><tt class="py-lineno">83</tt>  <tt class="py-line">        <tt class="py-comment">#taking note of all commitments and gift exchanges with time stamps3</tt> </tt>
+<a name="L84"></a><tt class="py-lineno">84</tt>  <tt class="py-line"> </tt>
+<a name="GiftSelector2.writ"></a><div id="GiftSelector2.writ-def"><a name="L85"></a><tt class="py-lineno">85</tt> <a class="py-toggle" href="#" id="GiftSelector2.writ-toggle" onclick="return toggle('GiftSelector2.writ');">-</a><tt class="py-line">        <tt class="py-keyword">def</tt> <a class="py-def-name" href="basket.GiftSelector2-class.html#writ">writ</a><tt class="py-op">(</tt><tt class="py-param">self</tt><tt class="py-op">)</tt><tt class="py-op">:</tt> </tt>
+</div><div id="GiftSelector2.writ-collapsed" style="display:none;" pad="++" indent="++++++++++++"></div><div id="GiftSelector2.writ-expanded"><a name="L86"></a><tt class="py-lineno">86</tt>  <tt class="py-line"> </tt>
+<a name="L87"></a><tt class="py-lineno">87</tt>  <tt class="py-line">                <tt class="py-name">file</tt><tt class="py-op">=</tt><tt class="py-name">open</tt><tt class="py-op">(</tt><tt class="py-string">"log.txt"</tt><tt class="py-op">,</tt><tt class="py-string">"a+"</tt><tt class="py-op">)</tt> </tt>
+<a name="L88"></a><tt class="py-lineno">88</tt>  <tt class="py-line">                <tt class="py-keyword">for</tt> <tt id="link-62" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-62', 'item', 'link-7');">item</a></tt> <tt class="py-keyword">in</tt> <tt class="py-name">self</tt><tt class="py-op">.</tt><tt id="link-63" class="py-name"><a title="main.commit" class="py-name" href="#" onclick="return doclink('link-63', 'commit', 'link-19');">commit</a></tt><tt class="py-op">:</tt> </tt>
+<a name="L89"></a><tt class="py-lineno">89</tt>  <tt class="py-line">                        <tt class="py-name">file</tt><tt class="py-op">.</tt><tt class="py-name">write</tt><tt class="py-op">(</tt><tt class="py-name">str</tt><tt class="py-op">(</tt><tt class="py-name">datetime</tt><tt class="py-op">.</tt><tt class="py-name">now</tt><tt class="py-op">(</tt><tt class="py-op">)</tt><tt class="py-op">)</tt><tt class="py-op">)</tt> </tt>
+<a name="L90"></a><tt class="py-lineno">90</tt>  <tt class="py-line">                        <tt class="py-name">file</tt><tt class="py-op">.</tt><tt class="py-name">write</tt><tt class="py-op">(</tt><tt class="py-string">" %s\n"</tt><tt class="py-op">%</tt><tt id="link-64" class="py-name"><a title="basket.GiftBasket.item" class="py-name" href="#" onclick="return doclink('link-64', 'item', 'link-7');">item</a></tt><tt class="py-op">)</tt> </tt>
+<a name="L91"></a><tt class="py-lineno">91</tt>  <tt class="py-line">                <tt class="py-name">file</tt><tt class="py-op">.</tt><tt class="py-name">close</tt><tt class="py-op">(</tt><tt class="py-op">)</tt> </tt>
+</div></div><a name="L92"></a><tt class="py-lineno">92</tt>  <tt class="py-line"> </tt><script type="text/javascript">
+<!--
+expandto(location.href);
+// -->
+</script>
+</pre>
+<br />
+<!-- ==================== NAVIGATION BAR ==================== -->
+<table class="navbar" border="0" width="100%" cellpadding="0"
+       bgcolor="#a0c0ff" cellspacing="0">
+  <tr valign="middle">
+
+  <!-- Tree link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="module-tree.html">Trees</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Index link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="identifier-index.html">Indices</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Help link -->
+      <th>&nbsp;&nbsp;&nbsp;<a
+        href="help.html">Help</a>&nbsp;&nbsp;&nbsp;</th>
+
+  <!-- Project homepage -->
+      <th class="navbar" align="right" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tr><th class="navbar" align="center"
+            >Q-8</th>
+          </tr></table></th>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%%">
+  <tr>
+    <td align="left" class="footer">
+    Generated by Epydoc 3.0.1 on Thu Mar 30 21:22:51 2017
+    </td>
+    <td align="right" class="footer">
+      <a target="mainFrame" href="http://epydoc.sourceforge.net"
+        >http://epydoc.sourceforge.net</a>
+    </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+  <!--
+  // Private objects are initially displayed (because if
+  // javascript is turned off then we want them to be
+  // visible); but by default, we want to hide them.  So hide
+  // them unless we have a cookie that says to show them.
+  checkCookie();
+  // -->
+</script>
+</body>
+</html>

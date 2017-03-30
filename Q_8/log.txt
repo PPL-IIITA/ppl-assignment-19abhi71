@@ -1,0 +1,58 @@
+2017-03-30 21:15:39.510615 Ajit is gonna date Amanda
+2017-03-30 21:15:39.510615 Abhishek is gonna date Guliston
+2017-03-30 21:15:39.511130 Rahul is gonna date Nina
+2017-03-30 21:15:39.511130 Tussank is gonna date Veronica
+2017-03-30 21:15:39.511130 Saurav is gonna date Sansa
+2017-03-30 21:15:39.511130 Tim is gonna date Anjali
+2017-03-30 21:15:39.511130 Joe is gonna date Neha
+2017-03-30 21:15:39.511130 Jimmy is gonna date Jesse
+2017-03-30 21:15:39.511130 Leonardo is gonna date Pooja
+2017-03-30 21:15:39.511130 Sam is gonna date Ankita
+2017-03-30 21:15:39.511130 Kira is gonna date Anny
+2017-03-30 21:15:39.511130 Here starts the Valentine week of February:-------------------------------------------------
+2017-03-30 21:15:39.511130 Gift Selector 2 starts now-------------------------------------------------
+2017-03-30 21:15:39.518618 Ajit gifts Teddy Amanda of category: essential
+2017-03-30 21:15:39.518618 Ajit gifts Sony Camera Amanda of category: luxury
+2017-03-30 21:15:39.518618 Ajit gifts Perfume Amanda of category: utility
+2017-03-30 21:15:39.518618 Ajit gifts Chocolate Amanda of category: luxury
+2017-03-30 21:15:39.518618 Ajit gifts Novel Amanda of category: essential
+2017-03-30 21:15:39.518618 Abhishek gifts Teddy Guliston of category: essential
+2017-03-30 21:15:39.518618 Abhishek gifts Sony Camera Guliston of category: luxury
+2017-03-30 21:15:39.518618 Abhishek gifts Perfume Guliston of category: utility
+2017-03-30 21:15:39.518618 Rahul gifts Teddy Nina of category: essential
+2017-03-30 21:15:39.518618 Rahul gifts Sony Camera Nina of category: luxury
+2017-03-30 21:15:39.518618 Rahul gifts Perfume Nina of category: utility
+2017-03-30 21:15:39.518618 Rahul gifts Chocolate Nina of category: luxury
+2017-03-30 21:15:39.518618 Tussank gifts Teddy Veronica of category: essential
+2017-03-30 21:15:39.518618 Tussank gifts Sony Camera Veronica of category: luxury
+2017-03-30 21:15:39.518618 Tussank gifts Perfume Veronica of category: utility
+2017-03-30 21:15:39.518618 Tussank gifts Chocolate Veronica of category: luxury
+2017-03-30 21:15:39.518618 Saurav gifts Teddy Sansa of category: essential
+2017-03-30 21:15:39.518618 Saurav gifts Sony Camera Sansa of category: luxury
+2017-03-30 21:15:39.518618 Saurav gifts Perfume Sansa of category: utility
+2017-03-30 21:15:39.519118 Tim gifts Teddy Anjali of category: essential
+2017-03-30 21:15:39.519118 Tim gifts Sony Camera Anjali of category: luxury
+2017-03-30 21:15:39.519118 Tim gifts Perfume Anjali of category: utility
+2017-03-30 21:15:39.519118 Tim gifts Chocolate Anjali of category: luxury
+2017-03-30 21:15:39.519118 Joe gifts Teddy Neha of category: essential
+2017-03-30 21:15:39.519118 Joe gifts Sony Camera Neha of category: luxury
+2017-03-30 21:15:39.519118 Joe gifts Perfume Neha of category: utility
+2017-03-30 21:15:39.519118 Joe gifts Chocolate Neha of category: luxury
+2017-03-30 21:15:39.519118 Jimmy gifts Teddy Jesse of category: essential
+2017-03-30 21:15:39.519118 Jimmy gifts Sony Camera Jesse of category: luxury
+2017-03-30 21:15:39.519118 Jimmy gifts Perfume Jesse of category: utility
+2017-03-30 21:15:39.519118 Jimmy gifts Chocolate Jesse of category: luxury
+2017-03-30 21:15:39.519118 Leonardo gifts Teddy Pooja of category: essential
+2017-03-30 21:15:39.519118 Leonardo gifts Sony Camera Pooja of category: luxury
+2017-03-30 21:15:39.519118 Leonardo gifts Perfume Pooja of category: utility
+2017-03-30 21:15:39.519118 Leonardo gifts Chocolate Pooja of category: luxury
+2017-03-30 21:15:39.519118 Leonardo gifts Novel Pooja of category: essential
+2017-03-30 21:15:39.519118 Sam gifts Teddy Ankita of category: essential
+2017-03-30 21:15:39.519118 Sam gifts Sony Camera Ankita of category: luxury
+2017-03-30 21:15:39.519118 Sam gifts Perfume Ankita of category: utility
+2017-03-30 21:15:39.519118 Sam gifts Chocolate Ankita of category: luxury
+2017-03-30 21:15:39.519118 Kira gifts Teddy Anny of category: essential
+2017-03-30 21:15:39.519118 Kira gifts Sony Camera Anny of category: luxury
+2017-03-30 21:15:39.519118 Kira gifts Perfume Anny of category: utility
+2017-03-30 21:15:39.519618 Kira gifts Chocolate Anny of category: luxury
+2017-03-30 21:15:39.519618 Kira gifts Novel Anny of category: essential
