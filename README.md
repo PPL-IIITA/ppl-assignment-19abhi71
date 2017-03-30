@@ -87,6 +87,14 @@ every such day, couples with happiness less than t break up and form new couples
 All this information would be on the terminal.The gifting process happening on each day can be seen in log.txt.
 ```
 
+**Question 8**:
+
+```
+A new gift allocation system is made (Gift Selector 2), such that at least one gift of every type is given in the gift pack, even if it exceeds the budget. The logic is implemented in the basket library file. Both types of gifting strategies Gift Selector 1 and Gift Selector 2 are implemented in the library, with a mechanism to specify the choice at the time of initialization.
+
+Choice between two gift selectors is taken randomly in main file and all details will be present in the log file.
+
+```
 * Events will be logged in log.txt file
 
 * CSV files generated - boys.csv,girls.csv
