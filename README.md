@@ -56,6 +56,11 @@ Python 3.5.2
 The best k happiest couples and the best k most compatible couples would be printed on the screen.
  ```
  
+ **Question 3**:
+ ---
+ ```
+ Question 2 using inheritance.
+ ```
  **Question 4**:
  ---
  
