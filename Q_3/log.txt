@@ -1,0 +1,62 @@
+2017-04-03 23:57:55.884905 Ajit is gonna date Amanda
+2017-04-03 23:57:55.884905 Abhishek is gonna date Ankita
+2017-04-03 23:57:55.884905 Rahul is gonna date Nina
+2017-04-03 23:57:55.884905 Tussank is gonna date Jesse
+2017-04-03 23:57:55.884905 Saurav is gonna date Pooja
+2017-04-03 23:57:55.884905 Leonardo is gonna date Neha
+2017-04-03 23:57:55.884905 Sam is gonna date Veronica
+2017-04-03 23:57:55.884905 Adam is gonna date Ozge
+2017-04-03 23:57:55.884905 Walter is gonna date Anjali
+2017-04-03 23:57:55.884905 Here starts the Valentine week of February:--------------------------------------------------------------
+2017-04-03 23:57:55.884905 Ajit gifts Novel Amanda
+2017-04-03 23:57:55.884905 Ajit gifts Speakers Amanda
+2017-04-03 23:57:55.884905 Ajit gifts Bracelet Amanda
+2017-04-03 23:57:55.884905 Ajit gifts Chocolate Amanda
+2017-04-03 23:57:55.884905 Abhishek gifts Novel Ankita
+2017-04-03 23:57:55.885409 Abhishek gifts Speakers Ankita
+2017-04-03 23:57:55.885409 Rahul gifts Novel Nina
+2017-04-03 23:57:55.885409 Rahul gifts Speakers Nina
+2017-04-03 23:57:55.885409 Rahul gifts Bracelet Nina
+2017-04-03 23:57:55.885409 Rahul gifts Chocolate Nina
+2017-04-03 23:57:55.885409 Rahul gifts Perfume Nina
+2017-04-03 23:57:55.885409 Rahul gifts earrings Nina
+2017-04-03 23:57:55.885409 Tussank gifts Novel Jesse
+2017-04-03 23:57:55.885409 Tussank gifts Speakers Jesse
+2017-04-03 23:57:55.885409 Tussank gifts Bracelet Jesse
+2017-04-03 23:57:55.885409 Tussank gifts Chocolate Jesse
+2017-04-03 23:57:55.885409 Tussank gifts Perfume Jesse
+2017-04-03 23:57:55.885409 Saurav gifts Novel Pooja
+2017-04-03 23:57:55.885409 Saurav gifts Speakers Pooja
+2017-04-03 23:57:55.885409 Saurav gifts Bracelet Pooja
+2017-04-03 23:57:55.885409 Saurav gifts Chocolate Pooja
+2017-04-03 23:57:55.885409 Saurav gifts Perfume Pooja
+2017-04-03 23:57:55.885409 Saurav gifts earrings Pooja
+2017-04-03 23:57:55.885409 Saurav gifts Portable Charger Pooja
+2017-04-03 23:57:55.885409 Leonardo gifts Novel Neha
+2017-04-03 23:57:55.885409 Leonardo gifts Speakers Neha
+2017-04-03 23:57:55.885409 Leonardo gifts Bracelet Neha
+2017-04-03 23:57:55.885409 Leonardo gifts Chocolate Neha
+2017-04-03 23:57:55.885409 Leonardo gifts Perfume Neha
+2017-04-03 23:57:55.885409 Leonardo gifts earrings Neha
+2017-04-03 23:57:55.885409 Leonardo gifts Portable Charger Neha
+2017-04-03 23:57:55.885409 Sam gifts Novel Veronica
+2017-04-03 23:57:55.885409 Sam gifts Speakers Veronica
+2017-04-03 23:57:55.885409 Sam gifts Bracelet Veronica
+2017-04-03 23:57:55.885409 Sam gifts Chocolate Veronica
+2017-04-03 23:57:55.885409 Sam gifts Perfume Veronica
+2017-04-03 23:57:55.885409 Sam gifts earrings Veronica
+2017-04-03 23:57:55.885409 Sam gifts Portable Charger Veronica
+2017-04-03 23:57:55.885409 Adam gifts Novel Ozge
+2017-04-03 23:57:55.885409 Adam gifts Speakers Ozge
+2017-04-03 23:57:55.885409 Adam gifts Bracelet Ozge
+2017-04-03 23:57:55.885409 Adam gifts Chocolate Ozge
+2017-04-03 23:57:55.885409 Adam gifts Perfume Ozge
+2017-04-03 23:57:55.885409 Adam gifts earrings Ozge
+2017-04-03 23:57:55.885409 Adam gifts Portable Charger Ozge
+2017-04-03 23:57:55.885409 Walter gifts Novel Anjali
+2017-04-03 23:57:55.885409 Walter gifts Speakers Anjali
+2017-04-03 23:57:55.885409 Walter gifts Bracelet Anjali
+2017-04-03 23:57:55.885409 Walter gifts Chocolate Anjali
+2017-04-03 23:57:55.885409 Walter gifts Perfume Anjali
+2017-04-03 23:57:55.885409 Walter gifts earrings Anjali
+2017-04-03 23:57:55.885409 Walter gifts Portable Charger Anjali
