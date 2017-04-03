@@ -87,6 +87,16 @@ every such day, couples with happiness less than t break up and form new couples
 All this information would be on the terminal.The gifting process happening on each day can be seen in log.txt.
 ```
 
+**Question 7**:
+---
+
+```
+A list of boys is given. their girlfriends are found (if any). There are three implementations, storing committed boys in a couple as an 
+
+array/linked list, sorted array (binary search) and hash table.Choice is taken randomly in main.
+
+All the information would be on both of the terminal and log.txt
+```
 **Question 8**:
 ---
 
