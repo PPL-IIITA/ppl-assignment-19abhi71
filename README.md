@@ -127,7 +127,7 @@ Choice between two gift selectors is taken randomly in main file and all details
 **Question 9**:
 ---
 ```
-A data structure is made that returns the best k valued items.Couples are made such that the boy picks up the girl by the secondary 
+A data structure is made (giftBasket2) that returns the best k valued items.Couples are made such that the boy picks up the girl by the secondary 
 
 criterion (maintenance) from the top k alternatives. Similarly the girl picks up the secondary criterion (as per type) from the top k 
 
