@@ -25,7 +25,7 @@ OS Type : 64 bit
 
 ```
 
-Python 3.5.2 
+Python 3.6.1 
 
 ```
 
@@ -36,7 +36,7 @@ Python 3.5.2
 
  ```
   
-  python3 main.py 
+  python main.py 
   
   ```
   **Question 1**:
