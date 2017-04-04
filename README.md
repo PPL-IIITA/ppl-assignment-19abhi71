@@ -51,7 +51,9 @@ Python 3.5.2
  ---
  
  ``` 
- After allocating boyfriends to all girls in the same order as given in the input, and after performing gifting to all girls as per     logic,log file would contain all gift details of gift exchanges between all couples.k is taken 3 in main.
+ After allocating boyfriends to all girls in the same order as given in the input, and after performing gifting to all girls as per     
+ 
+ logic,log file would contain all gift details of gift exchanges between all couples.k is taken 3 in main.
  
 The best k happiest couples and the best k most compatible couples would be printed on the screen.
  ```
@@ -65,7 +67,9 @@ The best k happiest couples and the best k most compatible couples would be prin
  ---
  
  ```
- Breakup would be performed after Valentines day of the least k happy couples. Assignment new (different) boyfriends to the girls who broke up.k is taken 3 in main.
+ Breakup would be performed after Valentines day of the least k happy couples. Assignment new (different) boyfriends to the girls who 
+ 
+ broke up.k is taken 3 in main.
  
  Terminal woul print k least happiest and k least compatible couples.
  ```
@@ -74,9 +78,13 @@ The best k happiest couples and the best k most compatible couples would be prin
  ---
  
  ```
- Rather than making couples by taking girls one by one as in question 1, we create a different mechanism. First one girl chooses a boy, then one boy choses a girl, and so on. The girl list is ordered by maintenance cost, while the boy list is ordered by attractiveness. 
+ Rather than making couples by taking girls one by one as in question 1, we create a different mechanism. First one girl chooses a boy, 
  
- The boys always chose the most attractive available girl which can be seen in the log file as girls' attractiveness value is also printed there. 
+ then one boy choses a girl, and so on. The girl list is ordered by maintenance cost, while the boy list is ordered by attractiveness. 
+ 
+ The boys always chose the most attractive available girl which can be seen in the log file as girls' attractiveness value is also 
+ 
+ printed there. 
  
  The happiest k couples are printed on the screen.k is taken 3 in main.
  
@@ -87,6 +95,7 @@ The best k happiest couples and the best k most compatible couples would be prin
  
  ```
  Supposing that gifting is not limited to Valentines day alone, but t days in a calendar month, well-marked. After
+
 every such day, couples with happiness less than t break up and form new couples.t is taken in main to be 10.
 
 All this information would be on the terminal.The gifting process happening on each day can be seen in log.txt.
@@ -106,10 +115,25 @@ All the information would be on both of the terminal and log.txt
 ---
 
 ```
-A new gift allocation system is made (Gift Selector 2), such that at least one gift of every type is given in the gift pack, even if it exceeds the budget. The logic is implemented in the basket library file. Both types of gifting strategies Gift Selector 1 and Gift Selector 2 are implemented in the library, with a mechanism to specify the choice at the time of initialization.
+A new gift allocation system is made (Gift Selector 2), such that at least one gift of every type is given in the gift pack, even if it 
+
+exceeds the budget. The logic is implemented in the basket library file. Both types of gifting strategies Gift Selector 1 and Gift 
+
+Selector 2 are implemented in the library, with a mechanism to specify the choice at the time of initialization.
 
 Choice between two gift selectors is taken randomly in main file and all details will be present in the log file.
 
+```
+**Question 9**:
+---
+```
+A data structure is made that returns the best k valued items.Couples are made such that the boy picks up the girl by the secondary 
+
+criterion (maintenance) from the top k alternatives. Similarly the girl picks up the secondary criterion (as per type) from the top k 
+
+alternatives. Similarly the boy picks up a gift as per secondary criterion (value),from the top k alternatives.
+
+k is taken 3 in main.
 ```
 * Events will be logged in log.txt file
 
