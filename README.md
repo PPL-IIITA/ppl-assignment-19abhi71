@@ -135,7 +135,14 @@ alternatives. Similarly the boy picks up a gift as per secondary criterion (valu
 
 k is taken 3 in main.
 ```
+**Question 10**:
+---
+```
+A data structure called as Randomk is made. The data structure returns a random item out of best n items.
+```
 * Events will be logged in log.txt file
+
+* Some details will also be present on the terminal
 
 * CSV files generated - boys.csv,girls.csv
 
