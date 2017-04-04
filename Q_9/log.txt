@@ -1,0 +1,181 @@
+2017-04-04 15:11:25.936780 Eminem of type : geeks is gonna date Veronica of maintenamce budget: 444
+2017-04-04 15:11:25.936780 Ajit of type : generous is gonna date Ecenaz of maintenamce budget: 1362
+2017-04-04 15:11:25.936780 Michael of type : geeks is gonna date Amanda of maintenamce budget: 302
+2017-04-04 15:11:25.936780 Tussank of type : geeks is gonna date Anjali of maintenamce budget: 1833
+2017-04-04 15:11:25.936780 Saurav of type : generous is gonna date Neha of maintenamce budget: 1786
+2017-04-04 15:11:25.936780 Leonardo of type : generous is gonna date Nina of maintenamce budget: 1551
+2017-04-04 15:11:25.936780 Jimmy of type : generous is gonna date Guliston of maintenamce budget: 2355
+2017-04-04 15:11:25.936780 Sam of type : generous is gonna date Jesse of maintenamce budget: 2260
+2017-04-04 15:11:25.936780 Adam of type : generous is gonna date Pooja of maintenamce budget: 3213
+2017-04-04 15:11:25.936780 Kira of type : generous is gonna date Ozge of maintenamce budget: 4593
+2017-04-04 15:11:25.937280 Walter of type : generous is gonna date Ankita of maintenamce budget: 2362
+2017-04-04 15:11:25.937280 Abhishek of type : miser is gonna date Sansa of maintenamce budget: 2539
+2017-04-04 15:11:25.937280 Here starts the Valentine week of February:--------------------------------------------------------------
+2017-04-04 15:11:25.937280 Eminem gifts Perfume Veronica of value: 57
+2017-04-04 15:11:25.937280 Eminem gifts Portable Charger Veronica of value: 56
+2017-04-04 15:11:25.937280 Eminem gifts earrings Veronica of value: 97
+2017-04-04 15:11:25.937280 Eminem gifts Bracelet Veronica of value: 50
+2017-04-04 15:11:25.937280 Eminem gifts Cookies Veronica of value: 48
+2017-04-04 15:11:25.937280 Eminem gifts earphones Veronica of value: 55
+2017-04-04 15:11:25.937280 Eminem gifts Teddy Veronica of value: 43
+2017-04-04 15:11:25.937280 Eminem gifts Novel Veronica of value: 59
+2017-04-04 15:11:25.937280 Eminem gifts Book Veronica of value: 41
+2017-04-04 15:11:25.937280 Eminem gifts Purse Veronica of value: 17
+2017-04-04 15:11:25.937280 Eminem gifts Chocolate Veronica of value: 43
+2017-04-04 15:11:25.937280 Eminem gifts Game Veronica of value: 3
+2017-04-04 15:11:25.937280 Eminem gifts Speakers Veronica of value: 18
+2017-04-04 15:11:25.937280 Eminem gifts Sony Camera Veronica of value: 3
+2017-04-04 15:11:25.937280 Ajit gifts Perfume Ecenaz of value: 57
+2017-04-04 15:11:25.937280 Ajit gifts Novel Ecenaz of value: 59
+2017-04-04 15:11:25.937280 Ajit gifts earphones Ecenaz of value: 55
+2017-04-04 15:11:25.937280 Ajit gifts earrings Ecenaz of value: 97
+2017-04-04 15:11:25.937280 Ajit gifts Portable Charger Ecenaz of value: 56
+2017-04-04 15:11:25.937280 Ajit gifts Chocolate Ecenaz of value: 43
+2017-04-04 15:11:25.937280 Ajit gifts Cookies Ecenaz of value: 48
+2017-04-04 15:11:25.937780 Ajit gifts Book Ecenaz of value: 41
+2017-04-04 15:11:25.937780 Ajit gifts Teddy Ecenaz of value: 43
+2017-04-04 15:11:25.937780 Ajit gifts Purse Ecenaz of value: 17
+2017-04-04 15:11:25.937780 Ajit gifts Sony Camera Ecenaz of value: 3
+2017-04-04 15:11:25.937780 Ajit gifts Speakers Ecenaz of value: 18
+2017-04-04 15:11:25.937780 Ajit gifts Bracelet Ecenaz of value: 50
+2017-04-04 15:11:25.937780 Ajit gifts Game Ecenaz of value: 3
+2017-04-04 15:11:25.937780 Michael gifts Novel Amanda of value: 59
+2017-04-04 15:11:25.937780 Michael gifts earrings Amanda of value: 97
+2017-04-04 15:11:25.937780 Michael gifts earphones Amanda of value: 55
+2017-04-04 15:11:25.937780 Michael gifts Portable Charger Amanda of value: 56
+2017-04-04 15:11:25.937780 Michael gifts Cookies Amanda of value: 48
+2017-04-04 15:11:25.937780 Michael gifts Bracelet Amanda of value: 50
+2017-04-04 15:11:25.937780 Michael gifts Chocolate Amanda of value: 43
+2017-04-04 15:11:25.937780 Michael gifts Teddy Amanda of value: 43
+2017-04-04 15:11:25.937780 Michael gifts Book Amanda of value: 41
+2017-04-04 15:11:25.937780 Michael gifts Purse Amanda of value: 17
+2017-04-04 15:11:25.937780 Michael gifts Speakers Amanda of value: 18
+2017-04-04 15:11:25.937780 Michael gifts Perfume Amanda of value: 57
+2017-04-04 15:11:25.937780 Michael gifts Game Amanda of value: 3
+2017-04-04 15:11:25.937780 Michael gifts Sony Camera Amanda of value: 3
+2017-04-04 15:11:25.937780 Tussank gifts earrings Anjali of value: 97
+2017-04-04 15:11:25.937780 Tussank gifts Novel Anjali of value: 59
+2017-04-04 15:11:25.937780 Tussank gifts Portable Charger Anjali of value: 56
+2017-04-04 15:11:25.938280 Tussank gifts earphones Anjali of value: 55
+2017-04-04 15:11:25.938280 Tussank gifts Cookies Anjali of value: 48
+2017-04-04 15:11:25.938280 Tussank gifts Perfume Anjali of value: 57
+2017-04-04 15:11:25.938280 Tussank gifts Teddy Anjali of value: 43
+2017-04-04 15:11:25.938280 Tussank gifts Chocolate Anjali of value: 43
+2017-04-04 15:11:25.938280 Tussank gifts Bracelet Anjali of value: 50
+2017-04-04 15:11:25.938280 Tussank gifts Speakers Anjali of value: 18
+2017-04-04 15:11:25.938280 Tussank gifts Purse Anjali of value: 17
+2017-04-04 15:11:25.938280 Tussank gifts Game Anjali of value: 3
+2017-04-04 15:11:25.938280 Tussank gifts Sony Camera Anjali of value: 3
+2017-04-04 15:11:25.938280 Tussank gifts Book Anjali of value: 41
+2017-04-04 15:11:25.938280 Saurav gifts Novel Neha of value: 59
+2017-04-04 15:11:25.938280 Saurav gifts earrings Neha of value: 97
+2017-04-04 15:11:25.938280 Saurav gifts Perfume Neha of value: 57
+2017-04-04 15:11:25.938280 Saurav gifts Bracelet Neha of value: 50
+2017-04-04 15:11:25.938280 Saurav gifts Portable Charger Neha of value: 56
+2017-04-04 15:11:25.938280 Saurav gifts Chocolate Neha of value: 43
+2017-04-04 15:11:25.938280 Saurav gifts earphones Neha of value: 55
+2017-04-04 15:11:25.938280 Saurav gifts Cookies Neha of value: 48
+2017-04-04 15:11:25.938280 Saurav gifts Book Neha of value: 41
+2017-04-04 15:11:25.938280 Saurav gifts Speakers Neha of value: 18
+2017-04-04 15:11:25.938280 Saurav gifts Purse Neha of value: 17
+2017-04-04 15:11:25.938280 Saurav gifts Sony Camera Neha of value: 3
+2017-04-04 15:11:25.938781 Saurav gifts Teddy Neha of value: 43
+2017-04-04 15:11:25.938781 Saurav gifts Game Neha of value: 3
+2017-04-04 15:11:25.938781 Leonardo gifts earrings Nina of value: 97
+2017-04-04 15:11:25.938781 Leonardo gifts Perfume Nina of value: 57
+2017-04-04 15:11:25.938781 Leonardo gifts Novel Nina of value: 59
+2017-04-04 15:11:25.938781 Leonardo gifts Portable Charger Nina of value: 56
+2017-04-04 15:11:25.938781 Leonardo gifts Bracelet Nina of value: 50
+2017-04-04 15:11:25.938781 Leonardo gifts Chocolate Nina of value: 43
+2017-04-04 15:11:25.938781 Leonardo gifts earphones Nina of value: 55
+2017-04-04 15:11:25.938781 Leonardo gifts Teddy Nina of value: 43
+2017-04-04 15:11:25.938781 Leonardo gifts Cookies Nina of value: 48
+2017-04-04 15:11:25.938781 Leonardo gifts Speakers Nina of value: 18
+2017-04-04 15:11:25.938781 Leonardo gifts Book Nina of value: 41
+2017-04-04 15:11:25.938781 Leonardo gifts Game Nina of value: 3
+2017-04-04 15:11:25.938781 Leonardo gifts Sony Camera Nina of value: 3
+2017-04-04 15:11:25.938781 Leonardo gifts Purse Nina of value: 17
+2017-04-04 15:11:25.938781 Jimmy gifts Perfume Guliston of value: 57
+2017-04-04 15:11:25.938781 Jimmy gifts earrings Guliston of value: 97
+2017-04-04 15:11:25.938781 Jimmy gifts earphones Guliston of value: 55
+2017-04-04 15:11:25.938781 Jimmy gifts Portable Charger Guliston of value: 56
+2017-04-04 15:11:25.938781 Jimmy gifts Cookies Guliston of value: 48
+2017-04-04 15:11:25.938781 Jimmy gifts Bracelet Guliston of value: 50
+2017-04-04 15:11:25.938781 Jimmy gifts Novel Guliston of value: 59
+2017-04-04 15:11:25.938781 Jimmy gifts Teddy Guliston of value: 43
+2017-04-04 15:11:25.938781 Jimmy gifts Speakers Guliston of value: 18
+2017-04-04 15:11:25.939281 Jimmy gifts Purse Guliston of value: 17
+2017-04-04 15:11:25.939281 Jimmy gifts Sony Camera Guliston of value: 3
+2017-04-04 15:11:25.939281 Jimmy gifts Book Guliston of value: 41
+2017-04-04 15:11:25.939281 Jimmy gifts Game Guliston of value: 3
+2017-04-04 15:11:25.939281 Jimmy gifts Chocolate Guliston of value: 43
+2017-04-04 15:11:25.939281 Sam gifts earrings Jesse of value: 97
+2017-04-04 15:11:25.939281 Sam gifts Perfume Jesse of value: 57
+2017-04-04 15:11:25.939281 Sam gifts Novel Jesse of value: 59
+2017-04-04 15:11:25.939281 Sam gifts Bracelet Jesse of value: 50
+2017-04-04 15:11:25.939281 Sam gifts Portable Charger Jesse of value: 56
+2017-04-04 15:11:25.939782 Sam gifts earphones Jesse of value: 55
+2017-04-04 15:11:25.939782 Sam gifts Teddy Jesse of value: 43
+2017-04-04 15:11:25.939782 Sam gifts Book Jesse of value: 41
+2017-04-04 15:11:25.939782 Sam gifts Chocolate Jesse of value: 43
+2017-04-04 15:11:25.939782 Sam gifts Cookies Jesse of value: 48
+2017-04-04 15:11:25.939782 Sam gifts Sony Camera Jesse of value: 3
+2017-04-04 15:11:25.939782 Sam gifts Speakers Jesse of value: 18
+2017-04-04 15:11:25.939782 Sam gifts Purse Jesse of value: 17
+2017-04-04 15:11:25.939782 Sam gifts Game Jesse of value: 3
+2017-04-04 15:11:25.939782 Adam gifts Novel Pooja of value: 59
+2017-04-04 15:11:25.939782 Adam gifts earrings Pooja of value: 97
+2017-04-04 15:11:25.939782 Adam gifts Perfume Pooja of value: 57
+2017-04-04 15:11:25.939782 Adam gifts Bracelet Pooja of value: 50
+2017-04-04 15:11:25.939782 Adam gifts Cookies Pooja of value: 48
+2017-04-04 15:11:25.939782 Adam gifts Portable Charger Pooja of value: 56
+2017-04-04 15:11:25.939782 Adam gifts Chocolate Pooja of value: 43
+2017-04-04 15:11:25.939782 Adam gifts Teddy Pooja of value: 43
+2017-04-04 15:11:25.939782 Adam gifts Book Pooja of value: 41
+2017-04-04 15:11:25.939782 Adam gifts earphones Pooja of value: 55
+2017-04-04 15:11:25.939782 Adam gifts Purse Pooja of value: 17
+2017-04-04 15:11:25.939782 Adam gifts Sony Camera Pooja of value: 3
+2017-04-04 15:11:25.939782 Adam gifts Speakers Pooja of value: 18
+2017-04-04 15:11:25.939782 Adam gifts Game Pooja of value: 3
+2017-04-04 15:11:25.939782 Kira gifts Perfume Ozge of value: 57
+2017-04-04 15:11:25.939782 Kira gifts Novel Ozge of value: 59
+2017-04-04 15:11:25.940282 Kira gifts earphones Ozge of value: 55
+2017-04-04 15:11:25.940282 Kira gifts Bracelet Ozge of value: 50
+2017-04-04 15:11:25.940282 Kira gifts earrings Ozge of value: 97
+2017-04-04 15:11:25.940282 Kira gifts Chocolate Ozge of value: 43
+2017-04-04 15:11:25.940282 Kira gifts Portable Charger Ozge of value: 56
+2017-04-04 15:11:25.940282 Kira gifts Teddy Ozge of value: 43
+2017-04-04 15:11:25.940282 Kira gifts Speakers Ozge of value: 18
+2017-04-04 15:11:25.940282 Kira gifts Book Ozge of value: 41
+2017-04-04 15:11:25.940282 Kira gifts Cookies Ozge of value: 48
+2017-04-04 15:11:25.940282 Kira gifts Sony Camera Ozge of value: 3
+2017-04-04 15:11:25.940282 Kira gifts Game Ozge of value: 3
+2017-04-04 15:11:25.940282 Kira gifts Purse Ozge of value: 17
+2017-04-04 15:11:25.940282 Walter gifts Novel Ankita of value: 59
+2017-04-04 15:11:25.940282 Walter gifts Perfume Ankita of value: 57
+2017-04-04 15:11:25.940282 Walter gifts Portable Charger Ankita of value: 56
+2017-04-04 15:11:25.940282 Walter gifts Bracelet Ankita of value: 50
+2017-04-04 15:11:25.940282 Walter gifts Cookies Ankita of value: 48
+2017-04-04 15:11:25.940282 Walter gifts earphones Ankita of value: 55
+2017-04-04 15:11:25.940282 Walter gifts Teddy Ankita of value: 43
+2017-04-04 15:11:25.940282 Walter gifts earrings Ankita of value: 97
+2017-04-04 15:11:25.940282 Walter gifts Chocolate Ankita of value: 43
+2017-04-04 15:11:25.940282 Walter gifts Book Ankita of value: 41
+2017-04-04 15:11:25.940282 Walter gifts Purse Ankita of value: 17
+2017-04-04 15:11:25.940282 Walter gifts Sony Camera Ankita of value: 3
+2017-04-04 15:11:25.940282 Walter gifts Speakers Ankita of value: 18
+2017-04-04 15:11:25.940282 Walter gifts Game Ankita of value: 3
+2017-04-04 15:11:25.940782 Abhishek gifts earrings Sansa of value: 97
+2017-04-04 15:11:25.940782 Abhishek gifts Perfume Sansa of value: 57
+2017-04-04 15:11:25.940782 Abhishek gifts Novel Sansa of value: 59
+2017-04-04 15:11:25.940782 Abhishek gifts earphones Sansa of value: 55
+2017-04-04 15:11:25.940782 Abhishek gifts Cookies Sansa of value: 48
+2017-04-04 15:11:25.940782 Abhishek gifts Portable Charger Sansa of value: 56
+2017-04-04 15:11:25.940782 Abhishek gifts Bracelet Sansa of value: 50
+2017-04-04 15:11:25.940782 Abhishek gifts Teddy Sansa of value: 43
+2017-04-04 15:11:25.940782 Abhishek gifts Book Sansa of value: 41
+2017-04-04 15:11:25.940782 Abhishek gifts Purse Sansa of value: 17
+2017-04-04 15:11:25.940782 Abhishek gifts Sony Camera Sansa of value: 3
+2017-04-04 15:11:25.940782 Abhishek gifts Chocolate Sansa of value: 43
+2017-04-04 15:11:25.940782 Abhishek gifts Game Sansa of value: 3
+2017-04-04 15:11:25.940782 Abhishek gifts Speakers Sansa of value: 18
