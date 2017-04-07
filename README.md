@@ -74,8 +74,7 @@ The best k happiest couples and the best k most compatible couples would be prin
  ---
  
  ```
- 
- 
+  
  The happiest k couples are printed on the screen.k is taken 3 in main.
  
  ```
@@ -144,4 +143,4 @@ In documentation folder head to *index.html*
 
 Before adding main.py file to epydoc,comment down all csv and file writing procedures to avoid errors.
 
-[Here you can see how to use graphical iunterface of epydoc](http://epydoc.sourceforge.net/epydoc.html#the-graphical-interface)
+[Here you can see how to use graphical interface of epydoc](http://epydoc.sourceforge.net/epydoc.html#the-graphical-interface)
