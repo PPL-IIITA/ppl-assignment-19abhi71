@@ -35,9 +35,15 @@ Python 3.6.1
 * For all questions:
 
  ```
+  on terminal:
   
   python main.py 
   
+  or
+  
+  in Sublime Text Editor:
+  
+  Ctrl+B will do the job.
   ```
   **Question 1**:
   ---
