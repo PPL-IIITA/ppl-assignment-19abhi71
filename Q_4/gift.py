@@ -9,10 +9,15 @@ class Gifts:
 		self.price=price
 		self.value=value
 		
-		if category=='Luxury':
-			self.difficulty=random.randint(100)
+		try:
+			if category=='Luxury':
+				self.difficulty=random.randint(100)
 		
-		if category=='Utility':
-			u=util.popitem()
-			self.utilClass=u[0]
-			self.utilVal=u[1]
+			if category=='Utility':
+				u=util.popitem()
+				self.utilClass=u[0]
+				self.utilVal=u[1];
+
+		except SyntaxError:
+			print('take care of syntax')
+		
