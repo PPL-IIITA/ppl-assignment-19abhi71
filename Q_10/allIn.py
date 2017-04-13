@@ -7,6 +7,8 @@ class PeopleAndObjects:
 
 class Boy(PeopleAndObjects):
 
+	class Boy:
+
 	#initialising boy object with required attributes
 	def __init__(self,name,attractiveness,intelligence,budget,minattreq,typ,status='S'):
 		self.name=name
@@ -17,24 +19,35 @@ class Boy(PeopleAndObjects):
 		self.typ=typ
 		self.status=status
 
-	#checks if boy can be paired with the girl
-	def readytopair(self,girl):
-		if self.budget>=girl.maintbudget and self.minattreq<=girl.attractiveness:
-			return True
-		return False
+	try:
+		#checks if boy can be paired with the girl
+		def readytopair(self,girl):
+			if self.budget>=girl.maintbudget and self.minattreq<=girl.attractiveness:
+				return True
+			return False
+		
+		#return current status of boy
+		def currStatus(self):
+			return self.status
+		
+		#changes status 
+		def changeStatus(self):
+			if self.status=='C':
+				self.status='S'
+			else:
+				self.status='C'
+	except SyntaxError:
+		print('error in syntax')
+	finally:
+		pass
 	
-	#return current status of boy
-	def currStatus(self):
-		return self.status
-	
-	#changes status 
-	def changeStatus(self):
-		if self.status=='C':
-			self.status='S'
-		else:
-			self.status='C'
+
+
+
+
 
 class Girl(PeopleAndObjects):
+	class Girl:
 	status='S'
 
 	#initialising girl object with required attributes
@@ -47,24 +60,32 @@ class Girl(PeopleAndObjects):
 		self.typ=typ
 		self.status=status
 
-	#checks if girl can be paired with the boy
-	def readytopair(self,boy):
-		if boy.budget<self.maintbudget or self.status=='C':
-			return False
-		return True
+	try:
+		#checks if girl can be paired with the boy
+		def readytopair(self,boy):
+			if boy.budget<self.maintbudget or self.status=='C':
+				return False
+			return True
 
-	#returns current status of girl
-	def currStatus(self):
-		return self.status
+		#returns current status of girl
+		def currStatus(self):
+			return self.status
 
-	#changes status 
-	def changeStatus(self):
-		if self.status=='C':
-			self.status='S'
-		else:
-			self.status='C'
+		#changes status 
+		def changeStatus(self):
+			if self.status=='C':
+				self.status='S'
+			else:
+				self.status='C';
+	except SyntaxError:
+		print('problem with syntax')
+	
 
 class Gifts(PeopleAndObjects):
+
+	import random
+
+class Gifts:
 
 	util={'A':100,'B':75,'C':50,'D':20}
 
@@ -73,12 +94,16 @@ class Gifts(PeopleAndObjects):
 		self.price=price
 		self.value=value
 		
-		if category=='Luxury':
-			self.difficulty=random.randint(100)
+		try:
+			if category=='Luxury':
+				self.difficulty=random.randint(100)
 		
-		if category=='Utility':
-			u=util.popitem()
-			self.utilClass=u[0]
-			self.utilVal=u[1]
+			if category=='Utility':
+				u=util.popitem()
+				self.utilClass=u[0]
+				self.utilVal=u[1];
 
+		except SyntaxError:
+			print('take care of syntax')
+		
 		
