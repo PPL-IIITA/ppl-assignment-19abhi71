@@ -1,7 +1,7 @@
 import math
 class Couple:
 
-	def __init__(self,bf,bfType,gfType,gf,budget,maintbudget,bfatt,gfatt,bfint,gfint,happiness):
+	def __init__(self,bf,bfType,gfType,gf,budget,maintbudget,bfatt,gfatt,bfint,gfint):
 		self.bf=bf
 		self.bfType=bfType
 		self.gfType=gfType
@@ -12,39 +12,51 @@ class Couple:
 		self.gfatt=gfatt
 		self.bfint=bfint
 		self.gfint=gfint
-		self.happiness=happiness
 
 	priceTag=[]
 	valueTag=[]
 	happiness=0
 	compatibility=0
 
+	
 	def Cal(self,before,spent):
 
 		self.happiness=abs(before-spent)
-				
-		if self.bfType=='miser':
-			if self.gfType=='choosy':
-				self.happiness+=math.log(sum(self.priceTag),2)			
-			elif self.gfType=='normal':
-				self.happiness+=sum(self.priceTag)+sum(self.valueTag)
-			else:
-				self.happiness+=(sum(self.priceTag))**2
-		elif self.bfType=='generous':
-			if self.gfType=='choosy':
-				self.happiness+=math.log(sum(self.priceTag),2)
-			elif self.gfType=='normal':
-				self.happiness+=sum(self.priceTag)+sum(self.valueTag)
-			else:
-				self.happiness+=(sum(self.priceTag))**2
+		self.compatibility=abs(before-spent)+abs(self.bfatt-self.gfatt)+abs(self.bfint-self.gfint)
+			
+		try:
+			if self.bfType=='miser':
+				if self.gfType=='choosy':
+					self.happiness+=math.log(sum(self.priceTag),2)			
+				elif self.gfType=='normal':
+					try:
+						self.happiness+=sum(self.priceTag)+sum(self.valueTag)+10000000000000000000000000000000000000000000000
+					except OverflowError:
+						print('overflow for numeric type')
+					
+				else:
+					self.happiness+=(sum(self.priceTag))**2
 		
-		else:
-			if self.gfType=='choosy':
-				self.happiness+=math.log(sum(self.priceTag),2)
-				
-			elif self.gfType=='normal':
-				self.happiness+=sum(self.priceTag)+sum(self.valueTag)
+			elif self.bfType=='generous':
+				if self.gfType=='choosy':
+					self.happiness+=math.log(sum(self.priceTag),2)
+				elif self.gfType=='normal':
+					self.happiness+=sum(self.priceTag)+sum(self.valueTag)
+				else:
+					self.happiness+=(sum(self.priceTag))**2
+			
 			else:
-				self.happiness+=(sum(self.priceTag))**2
+				if self.gfType=='choosy':
+					self.happiness+=math.log(sum(self.priceTag),2)+10000000000000000000000000000000000000000000000
+					
+				elif self.gfType=='normal':
+					self.happiness+=sum(self.priceTag)+sum(self.valueTag)
+				else:
+					self.happiness+=(sum(self.priceTag))**2
+		except SyntaxError:				
+			print('error in syntax')
+	
+			
+	
 
 		
