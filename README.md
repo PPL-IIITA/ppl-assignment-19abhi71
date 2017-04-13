@@ -49,7 +49,7 @@ Python 3.6.1
 **Question 11**:
 ---
 ```
-All the questions\' implementations are same as in master branch but with exception handling.
+All the implementations of questions' from 1 to 10 are same as in master branch but with exception handling.
 ```
 **Question 12**:
 ---
