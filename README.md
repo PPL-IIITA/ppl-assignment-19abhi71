@@ -58,7 +58,7 @@ All the implementations of questions' from 1 to 10 are same as in master branch 
 ```
 * Events will be logged in log.txt file
 
-* Some details will also be present on the terminal
+* Some details will also be present on the terminal 
 
 * CSV files generated - boys.csv,girls.csv
 
