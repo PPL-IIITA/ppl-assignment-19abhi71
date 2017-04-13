@@ -11,19 +11,23 @@ class Girl:
 		self.typ=typ
 		self.status=status
 
-	#checks if girl can be paired with the boy
-	def readytopair(self,boy):
-		if boy.budget<self.maintbudget or self.status=='C':
-			return False
-		return True
+	try:
+		#checks if girl can be paired with the boy
+		def readytopair(self,boy):
+			if boy.budget<self.maintbudget or self.status=='C':
+				return False
+			return True
 
-	#returns current status of girl
-	def currStatus(self):
-		return self.status
+		#returns current status of girl
+		def currStatus(self):
+			return self.status
 
-	#changes status 
-	def changeStatus(self):
-		if self.status=='C':
-			self.status='S'
-		else:
-			self.status='C'
+		#changes status 
+		def changeStatus(self):
+			if self.status=='C':
+				self.status='S'
+			else:
+				self.status='C';
+	except SyntaxError:
+		print('problem with syntax')
+	
