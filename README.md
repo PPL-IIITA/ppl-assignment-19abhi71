@@ -45,82 +45,16 @@ Python 3.6.1
   
   Ctrl+B will do the job.
   ```
-  **Question 1**:
-  ---
   
- ```
- log file would contain allocation of boyfriends to all girls in the same order as given in the input, and the couples so formed.
- 
- ```
-
- **Question 2**:
- ---
- 
- ``` 
- k is taken 3 in main.
- 
-The best k happiest couples and the best k most compatible couples would be printed on the screen.
- ```
- 
- **Question 3**:
- ---
- ```
- Question 2 using inheritance.
- ```
- **Question 4**:
- ---
- 
- ```
- k is taken 3 in main.
- 
- Terminal woul print k least happiest and k least compatible couples.
- ```
- 
- **Question 5**:
- ---
- 
- ```
-  
- The happiest k couples are printed on the screen.k is taken 3 in main.
- 
- ```
- 
- **Question 6**:
- ---
- 
- ```
- t is taken in main to be 10.
-
-All this information would be on the terminal.The gifting process happening on each day can be seen in log.txt.
-```
-
-**Question 7**:
----
-
-```
-Choice between all procedures is taken randomly in main.
-
-All the information would be on both of the terminal and log.txt
-```
-**Question 8**:
----
-
-```
-
-Choice between two gift selectors is taken randomly in main file and all details will be present in the log file.
-
-```
-**Question 9**:
+**Question 11**:
 ---
 ```
-A data structure is made (giftBasket2) that returns the best k valued items.
-
-k is taken 3 in main.
+All the questions\' implementations are same as in master branch but with exception handling.
 ```
-**Question 10**:
+**Question 12**:
 ---
 ```
-A data structure called as Randomk is made. The data structure returns a random item out of best n items.
+
 ```
 * Events will be logged in log.txt file
 
