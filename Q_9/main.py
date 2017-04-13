@@ -1,5 +1,12 @@
 from allIn import Boy,Girl,Gifts,PeopleAndObjects
-from couples import Couple
+try:
+	from boy import Boy
+	from girl import Girl
+	from gift import Gifts
+	from couples import Couple
+	from magic import awesome
+except ImportError:
+	print('There is error in importing some files')
 from datetime import datetime
 import operator
 import random
@@ -24,21 +31,26 @@ giftsList=[]
 #testing utility
 
 #generating a list named B of boy objects and boyslist with respective values of object for writing to csv
-for i in range(19):
-	b=Boy(boys[i],random.randint(10,100),random.randint(24,100),random.randint(50,5000),random.randint(6,50),random.choice(typ1))
-	boyslist.append([b.name,b.attractiveness,b.intelligence,b.budget,b.minattreq,b.typ,b.status])
-	B.append(b)
-
+try:
+	for i in range(22):
+		b=Boy(boys[i],random.randint(10,100),random.randint(24,100),random.randint(50,5000),random.randint(6,50),random.choice(typ1))
+		boyslist.append([b.name,b.attractiveness,b.intelligence,b.budget,b.minattreq,b.typ,b.status])
+		B.append(b)
+except IndexError:
+	print('List out of bounds')
 #writing csv file
 with open("guys.csv","w") as h:
 	writer=csv.writer(h,delimiter=',')
 	writer.writerows(boyslist)
 
 #generating a list named G of girl objects and girlslist with respective values of object for writing to csv
-for i in range(13):
-	g=Girl(girls[i],random.randint(10,100),random.randint(26,100),random.randint(12,5000),random.choice(crit),random.choice(typ2))
-	girlslist.append([g.name,g.attractiveness,g.intelligence,g.maintbudget,g.criteria,g.typ,g.status])
-	G.append(g)
+try:
+	for i in range(13):
+		g=Girl(girls[i],random.randint(10,100),random.randint(26,100),random.randint(12,5000),random.choice(crit),random.choice(typ2))
+		girlslist.append([g.name,g.attractiveness,g.intelligence,g.maintbudget,g.criteria,g.typ,g.status])
+		G.append(g)
+except StopIteration:
+	print('List out of bounds')
 
 #writing csv file
 with open("girls.csv","w") as f:
@@ -99,7 +111,10 @@ for c in couplesList:
 			before-=item.price
 			c.priceTag.append(item.price)
 			c.valueTag.append(item.value)
-			spent+=item.price
+			try:
+				spent+=item.price/0
+			except ArithmeticError:
+				print('there is some error in arithmetics for this variable')
 			s1=c.bf+' gifts '+item.name+' '+c.gf+' of value: '+str(item.value)
 			commit.append(s1)
 			print(s1)
@@ -109,8 +124,12 @@ for c in couplesList:
 		
 
 #taking note of all commitments and gift exchanges with time stamps
-file=open("log.txt","w")
-for item in commit:
-	file.write(str(datetime.now()))
-	file.write(" %s\n"%item)
-
+try:
+	file=open("log.txt","r")
+	for item in commit:
+		file.write(str(datetime.now()))
+		file.write(" %s\n"%item)
+except IOError:
+	print('Error can\'t write to file')
+finally:
+	file.close()
