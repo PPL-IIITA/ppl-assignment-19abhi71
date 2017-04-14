@@ -1,9 +1,10 @@
 from allIn import Boy,Girl,Gifts,PeopleAndObjects
+from couples import Couple
 try:
 	from boy import Boy
 	from girl import Girl
 	from gift import Gifts
-	from couples import Couple
+	
 	from magic import awesome
 except ImportError:
 	print('There is error in importing some files')
@@ -78,7 +79,7 @@ for i in range(0,100):
 		couplesList.append(c)
 		s1=boy.name+' of type : '+boy.typ+' is gonna date '+girl.name+' of maintenamce budget: '+str(girl.maintbudget)
 		commit.append(s1)
-		print(s1)
+		#print(s1)
 		B.remove(boy)
 		G.remove(girl)
 
@@ -117,7 +118,7 @@ for c in couplesList:
 				print('there is some error in arithmetics for this variable')
 			s1=c.bf+' gifts '+item.name+' '+c.gf+' of value: '+str(item.value)
 			commit.append(s1)
-			print(s1)
+			#print(s1)
 			giftBasket2.remove(item)
 		else:
 			break

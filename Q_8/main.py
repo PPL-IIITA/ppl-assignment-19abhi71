@@ -1,8 +1,8 @@
+from couples import Couple
+from boy import Boy
+from girl import Girl
+from gift import Gifts
 try:
-	from boy import Boy
-	from girl import Girl
-	from gift import Gifts
-	from couples import Couple
 	from magic import awesome
 except ImportError:
 	print('There is error in importing some files')

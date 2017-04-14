@@ -1,58 +1,126 @@
-2017-03-30 21:15:39.510615 Ajit is gonna date Amanda
-2017-03-30 21:15:39.510615 Abhishek is gonna date Guliston
-2017-03-30 21:15:39.511130 Rahul is gonna date Nina
-2017-03-30 21:15:39.511130 Tussank is gonna date Veronica
-2017-03-30 21:15:39.511130 Saurav is gonna date Sansa
-2017-03-30 21:15:39.511130 Tim is gonna date Anjali
-2017-03-30 21:15:39.511130 Joe is gonna date Neha
-2017-03-30 21:15:39.511130 Jimmy is gonna date Jesse
-2017-03-30 21:15:39.511130 Leonardo is gonna date Pooja
-2017-03-30 21:15:39.511130 Sam is gonna date Ankita
-2017-03-30 21:15:39.511130 Kira is gonna date Anny
-2017-03-30 21:15:39.511130 Here starts the Valentine week of February:-------------------------------------------------
-2017-03-30 21:15:39.511130 Gift Selector 2 starts now-------------------------------------------------
-2017-03-30 21:15:39.518618 Ajit gifts Teddy Amanda of category: essential
-2017-03-30 21:15:39.518618 Ajit gifts Sony Camera Amanda of category: luxury
-2017-03-30 21:15:39.518618 Ajit gifts Perfume Amanda of category: utility
-2017-03-30 21:15:39.518618 Ajit gifts Chocolate Amanda of category: luxury
-2017-03-30 21:15:39.518618 Ajit gifts Novel Amanda of category: essential
-2017-03-30 21:15:39.518618 Abhishek gifts Teddy Guliston of category: essential
-2017-03-30 21:15:39.518618 Abhishek gifts Sony Camera Guliston of category: luxury
-2017-03-30 21:15:39.518618 Abhishek gifts Perfume Guliston of category: utility
-2017-03-30 21:15:39.518618 Rahul gifts Teddy Nina of category: essential
-2017-03-30 21:15:39.518618 Rahul gifts Sony Camera Nina of category: luxury
-2017-03-30 21:15:39.518618 Rahul gifts Perfume Nina of category: utility
-2017-03-30 21:15:39.518618 Rahul gifts Chocolate Nina of category: luxury
-2017-03-30 21:15:39.518618 Tussank gifts Teddy Veronica of category: essential
-2017-03-30 21:15:39.518618 Tussank gifts Sony Camera Veronica of category: luxury
-2017-03-30 21:15:39.518618 Tussank gifts Perfume Veronica of category: utility
-2017-03-30 21:15:39.518618 Tussank gifts Chocolate Veronica of category: luxury
-2017-03-30 21:15:39.518618 Saurav gifts Teddy Sansa of category: essential
-2017-03-30 21:15:39.518618 Saurav gifts Sony Camera Sansa of category: luxury
-2017-03-30 21:15:39.518618 Saurav gifts Perfume Sansa of category: utility
-2017-03-30 21:15:39.519118 Tim gifts Teddy Anjali of category: essential
-2017-03-30 21:15:39.519118 Tim gifts Sony Camera Anjali of category: luxury
-2017-03-30 21:15:39.519118 Tim gifts Perfume Anjali of category: utility
-2017-03-30 21:15:39.519118 Tim gifts Chocolate Anjali of category: luxury
-2017-03-30 21:15:39.519118 Joe gifts Teddy Neha of category: essential
-2017-03-30 21:15:39.519118 Joe gifts Sony Camera Neha of category: luxury
-2017-03-30 21:15:39.519118 Joe gifts Perfume Neha of category: utility
-2017-03-30 21:15:39.519118 Joe gifts Chocolate Neha of category: luxury
-2017-03-30 21:15:39.519118 Jimmy gifts Teddy Jesse of category: essential
-2017-03-30 21:15:39.519118 Jimmy gifts Sony Camera Jesse of category: luxury
-2017-03-30 21:15:39.519118 Jimmy gifts Perfume Jesse of category: utility
-2017-03-30 21:15:39.519118 Jimmy gifts Chocolate Jesse of category: luxury
-2017-03-30 21:15:39.519118 Leonardo gifts Teddy Pooja of category: essential
-2017-03-30 21:15:39.519118 Leonardo gifts Sony Camera Pooja of category: luxury
-2017-03-30 21:15:39.519118 Leonardo gifts Perfume Pooja of category: utility
-2017-03-30 21:15:39.519118 Leonardo gifts Chocolate Pooja of category: luxury
-2017-03-30 21:15:39.519118 Leonardo gifts Novel Pooja of category: essential
-2017-03-30 21:15:39.519118 Sam gifts Teddy Ankita of category: essential
-2017-03-30 21:15:39.519118 Sam gifts Sony Camera Ankita of category: luxury
-2017-03-30 21:15:39.519118 Sam gifts Perfume Ankita of category: utility
-2017-03-30 21:15:39.519118 Sam gifts Chocolate Ankita of category: luxury
-2017-03-30 21:15:39.519118 Kira gifts Teddy Anny of category: essential
-2017-03-30 21:15:39.519118 Kira gifts Sony Camera Anny of category: luxury
-2017-03-30 21:15:39.519118 Kira gifts Perfume Anny of category: utility
-2017-03-30 21:15:39.519618 Kira gifts Chocolate Anny of category: luxury
-2017-03-30 21:15:39.519618 Kira gifts Novel Anny of category: essential
+2017-04-14 19:26:01.871899 Ajit gifts Perfume Amanda of category: luxury
+2017-04-14 19:26:01.871899 Ajit gifts Portable Charger Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts Purse Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts Book Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts Sony Camera Amanda of category: essential
+2017-04-14 19:26:01.871899 Ajit gifts earphones Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts earrings Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts Game Amanda of category: essential
+2017-04-14 19:26:01.871899 Ajit gifts Teddy Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts Speakers Amanda of category: luxury
+2017-04-14 19:26:01.871899 Ajit gifts Chocolate Amanda of category: essential
+2017-04-14 19:26:01.871899 Ajit gifts Cookies Amanda of category: utility
+2017-04-14 19:26:01.871899 Ajit gifts Bracelet Amanda of category: essential
+2017-04-14 19:26:01.871899 Ajit gifts Novel Amanda of category: utility
+2017-04-14 19:26:01.871899 Abhishek gifts Perfume Pooja of category: luxury
+2017-04-14 19:26:01.871899 Abhishek gifts Portable Charger Pooja of category: utility
+2017-04-14 19:26:01.871899 Abhishek gifts Purse Pooja of category: utility
+2017-04-14 19:26:01.871899 Abhishek gifts Book Pooja of category: utility
+2017-04-14 19:26:01.872399 Abhishek gifts Sony Camera Pooja of category: essential
+2017-04-14 19:26:01.872399 Abhishek gifts earphones Pooja of category: utility
+2017-04-14 19:26:01.872399 Abhishek gifts earrings Pooja of category: utility
+2017-04-14 19:26:01.872399 Abhishek gifts Game Pooja of category: essential
+2017-04-14 19:26:01.872399 Abhishek gifts Teddy Pooja of category: utility
+2017-04-14 19:26:01.872399 Abhishek gifts Speakers Pooja of category: luxury
+2017-04-14 19:26:01.872399 Abhishek gifts Chocolate Pooja of category: essential
+2017-04-14 19:26:01.872399 Abhishek gifts Cookies Pooja of category: utility
+2017-04-14 19:26:01.872399 Abhishek gifts Bracelet Pooja of category: essential
+2017-04-14 19:26:01.872399 Abhishek gifts Novel Pooja of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Perfume Sansa of category: luxury
+2017-04-14 19:26:01.872399 Rahul gifts Portable Charger Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Purse Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Book Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Sony Camera Sansa of category: essential
+2017-04-14 19:26:01.872399 Rahul gifts earphones Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts earrings Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Game Sansa of category: essential
+2017-04-14 19:26:01.872399 Rahul gifts Teddy Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Speakers Sansa of category: luxury
+2017-04-14 19:26:01.872399 Rahul gifts Chocolate Sansa of category: essential
+2017-04-14 19:26:01.872399 Rahul gifts Cookies Sansa of category: utility
+2017-04-14 19:26:01.872399 Rahul gifts Bracelet Sansa of category: essential
+2017-04-14 19:26:01.872399 Rahul gifts Novel Sansa of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Perfume Guliston of category: luxury
+2017-04-14 19:26:01.872399 Tussank gifts Portable Charger Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Purse Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Book Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Sony Camera Guliston of category: essential
+2017-04-14 19:26:01.872399 Tussank gifts earphones Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts earrings Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Game Guliston of category: essential
+2017-04-14 19:26:01.872399 Tussank gifts Teddy Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Speakers Guliston of category: luxury
+2017-04-14 19:26:01.872399 Tussank gifts Chocolate Guliston of category: essential
+2017-04-14 19:26:01.872399 Tussank gifts Cookies Guliston of category: utility
+2017-04-14 19:26:01.872399 Tussank gifts Bracelet Guliston of category: essential
+2017-04-14 19:26:01.872399 Tussank gifts Novel Guliston of category: utility
+2017-04-14 19:26:01.872399 Saurav gifts Perfume Veronica of category: luxury
+2017-04-14 19:26:01.872399 Saurav gifts Portable Charger Veronica of category: utility
+2017-04-14 19:26:01.872399 Saurav gifts Purse Veronica of category: utility
+2017-04-14 19:26:01.872399 Saurav gifts Book Veronica of category: utility
+2017-04-14 19:26:01.872399 Saurav gifts Sony Camera Veronica of category: essential
+2017-04-14 19:26:01.872399 Saurav gifts earphones Veronica of category: utility
+2017-04-14 19:26:01.872898 Saurav gifts earrings Veronica of category: utility
+2017-04-14 19:26:01.872898 Saurav gifts Game Veronica of category: essential
+2017-04-14 19:26:01.872898 Saurav gifts Teddy Veronica of category: utility
+2017-04-14 19:26:01.872898 Saurav gifts Speakers Veronica of category: luxury
+2017-04-14 19:26:01.872898 Saurav gifts Chocolate Veronica of category: essential
+2017-04-14 19:26:01.872898 Saurav gifts Cookies Veronica of category: utility
+2017-04-14 19:26:01.872898 Saurav gifts Bracelet Veronica of category: essential
+2017-04-14 19:26:01.872898 Saurav gifts Novel Veronica of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Perfume Ozge of category: luxury
+2017-04-14 19:26:01.872898 Joe gifts Portable Charger Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Purse Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Book Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Sony Camera Ozge of category: essential
+2017-04-14 19:26:01.872898 Joe gifts earphones Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts earrings Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Game Ozge of category: essential
+2017-04-14 19:26:01.872898 Joe gifts Teddy Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Speakers Ozge of category: luxury
+2017-04-14 19:26:01.872898 Joe gifts Chocolate Ozge of category: essential
+2017-04-14 19:26:01.872898 Joe gifts Cookies Ozge of category: utility
+2017-04-14 19:26:01.872898 Joe gifts Bracelet Ozge of category: essential
+2017-04-14 19:26:01.872898 Joe gifts Novel Ozge of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Perfume Neha of category: luxury
+2017-04-14 19:26:01.872898 Jimmy gifts Portable Charger Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Purse Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Book Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Sony Camera Neha of category: essential
+2017-04-14 19:26:01.872898 Jimmy gifts earphones Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts earrings Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Game Neha of category: essential
+2017-04-14 19:26:01.872898 Jimmy gifts Teddy Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Speakers Neha of category: luxury
+2017-04-14 19:26:01.872898 Jimmy gifts Chocolate Neha of category: essential
+2017-04-14 19:26:01.872898 Jimmy gifts Cookies Neha of category: utility
+2017-04-14 19:26:01.872898 Jimmy gifts Bracelet Neha of category: essential
+2017-04-14 19:26:01.872898 Jimmy gifts Novel Neha of category: utility
+2017-04-14 19:26:01.872898 Eminem gifts Perfume Nina of category: luxury
+2017-04-14 19:26:01.872898 Eminem gifts Portable Charger Nina of category: utility
+2017-04-14 19:26:01.872898 Eminem gifts Purse Nina of category: utility
+2017-04-14 19:26:01.872898 Eminem gifts Book Nina of category: utility
+2017-04-14 19:26:01.872898 Eminem gifts Sony Camera Nina of category: essential
+2017-04-14 19:26:01.872898 Eminem gifts earphones Nina of category: utility
+2017-04-14 19:26:01.872898 Eminem gifts earrings Nina of category: utility
+2017-04-14 19:26:01.873399 Eminem gifts Game Nina of category: essential
+2017-04-14 19:26:01.873399 Eminem gifts Teddy Nina of category: utility
+2017-04-14 19:26:01.873399 Eminem gifts Speakers Nina of category: luxury
+2017-04-14 19:26:01.873399 Eminem gifts Chocolate Nina of category: essential
+2017-04-14 19:26:01.873399 Eminem gifts Cookies Nina of category: utility
+2017-04-14 19:26:01.873399 Eminem gifts Bracelet Nina of category: essential
+2017-04-14 19:26:01.873399 Eminem gifts Novel Nina of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Perfume Anjali of category: luxury
+2017-04-14 19:26:01.873399 Dante gifts Portable Charger Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Purse Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Book Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Sony Camera Anjali of category: essential
+2017-04-14 19:26:01.873399 Dante gifts earphones Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts earrings Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Game Anjali of category: essential
+2017-04-14 19:26:01.873399 Dante gifts Teddy Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Speakers Anjali of category: luxury
+2017-04-14 19:26:01.873399 Dante gifts Chocolate Anjali of category: essential
+2017-04-14 19:26:01.873399 Dante gifts Cookies Anjali of category: utility
+2017-04-14 19:26:01.873399 Dante gifts Bracelet Anjali of category: essential
+2017-04-14 19:26:01.873399 Dante gifts Novel Anjali of category: utility

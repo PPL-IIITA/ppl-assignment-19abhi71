@@ -4,10 +4,11 @@ class Gifts:
 
 	util={'A':100,'B':75,'C':50,'D':20}
 
-	def __init__(self,name,price,value,category):
+	def __init__(self,name,price,value,category=''):
 		self.name=name
 		self.price=price
 		self.value=value
+		self.category=category
 		
 		try:
 			if category=='Luxury':
