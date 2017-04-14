@@ -7,8 +7,6 @@ class PeopleAndObjects:
 
 class Boy(PeopleAndObjects):
 
-	class Boy:
-
 	#initialising boy object with required attributes
 	def __init__(self,name,attractiveness,intelligence,budget,minattreq,typ,status='S'):
 		self.name=name
@@ -25,11 +23,11 @@ class Boy(PeopleAndObjects):
 			if self.budget>=girl.maintbudget and self.minattreq<=girl.attractiveness:
 				return True
 			return False
-		
+			
 		#return current status of boy
 		def currStatus(self):
 			return self.status
-		
+			
 		#changes status 
 		def changeStatus(self):
 			if self.status=='C':
@@ -40,14 +38,9 @@ class Boy(PeopleAndObjects):
 		print('error in syntax')
 	finally:
 		pass
-	
-
-
-
 
 
 class Girl(PeopleAndObjects):
-	class Girl:
 	status='S'
 
 	#initialising girl object with required attributes
@@ -66,7 +59,6 @@ class Girl(PeopleAndObjects):
 			if boy.budget<self.maintbudget or self.status=='C':
 				return False
 			return True
-
 		#returns current status of girl
 		def currStatus(self):
 			return self.status
@@ -83,9 +75,6 @@ class Girl(PeopleAndObjects):
 
 class Gifts(PeopleAndObjects):
 
-	import random
-
-class Gifts:
 
 	util={'A':100,'B':75,'C':50,'D':20}
 
@@ -93,7 +82,7 @@ class Gifts:
 		self.name=name
 		self.price=price
 		self.value=value
-		
+			
 		try:
 			if category=='Luxury':
 				self.difficulty=random.randint(100)
@@ -105,5 +94,5 @@ class Gifts:
 
 		except SyntaxError:
 			print('take care of syntax')
-		
+			
 		

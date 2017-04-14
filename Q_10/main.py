@@ -1,9 +1,9 @@
 from allIn import Boy,Girl,Gifts,PeopleAndObjects
+from couples import Couple
 try:
 	from boy import Boy
 	from girl import Girl
-	from gift import Gifts
-	from couples import Couple
+	from gift import Gifts	
 	from magic import awesome
 except ImportError:
 	print('There is error in importing some files')
@@ -91,7 +91,7 @@ giftBasket.sort(key=operator.attrgetter('value'))
 
 s1='Randomk is gonna be used:--------------------------------------------------------------'
 commit.append(s1)
-print(s1)
+#print(s1)
 
 for c in couplesList:
 
@@ -112,7 +112,7 @@ for c in couplesList:
 				print('there is some error in arithmetics for this variable')
 			s1=c.bf+' gifts '+item.name+' '+c.gf+' of value: '+str(item.value)
 			commit.append(s1)
-			print(s1)
+			#print(s1)
 			randomk.remove(item)
 		else:
 			break
