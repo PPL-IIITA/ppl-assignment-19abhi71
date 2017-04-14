@@ -1,8 +1,6 @@
+from boy import Boy
+from girl import Girl
 try:
-	from boy import Boy
-	from girl import Girl
-	from gift import Gifts
-	from couples import Couple
 	from magic import awesome
 except ImportError:
 	print('There is error in importing some files')
@@ -60,8 +58,6 @@ try:
 				boy.changeStatus()
 				girl.changeStatus()
 						
-				c=Couple(boy.name,boy.typ,girl.typ,girl.name,boy.budget,girl.maintbudget,boy.attractiveness,girl.attractiveness,boy.intelligence,girl.intelligence)
-				couplesList.append(c)
 				s1=boy.name+' is gonna date '+girl.name
 				commit.append(s1)
 				break
