@@ -2,7 +2,7 @@ from datetime import datetime
 
 class Couple:
 
-	def __init__(self,bf,bfType,gfType,gf,budget,maintbudget,bfatt,gfatt,bfint,gfint,happiness):
+	def __init__(self,bf,bfType,gfType,gf,budget,maintbudget,bfatt,gfatt,bfint,gfint,happiness=0):
 		self.bf=bf
 		self.bfType=bfType
 		self.gfType=gfType
