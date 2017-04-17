@@ -54,7 +54,7 @@ All the implementations of questions' from 1 to 10 are same as in master branch 
 **Question 12**:
 ---
 ```
-
+Details of each month is printed on the console.
 ```
 * Events will be logged in log.txt file
 
