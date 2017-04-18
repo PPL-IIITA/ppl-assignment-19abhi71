@@ -94,13 +94,14 @@ j=0
 while j<12:	
 
 	#new boys are added to list
+	
 	b=Boy(random.choice(newBoys),random.randint(10,100),random.randint(24,100),random.randint(50,5000),random.randint(6,50),random.choice(typ1))
 	B.append(b)
 	boysBudget.append(b.budget)
 	newBoys.remove(b.name)
 
 	print('In month '+str(j+1)+" Money has reached every boys' accounts:-------------------------------------")
-
+	#handler
 	makeCouples()
 
 	s1='Here starts the process of gift giving:--------------------------------------------------------------'
@@ -127,7 +128,7 @@ while j<12:
 				couplesList.remove(c)
 				break
 				
-			if before<=0 or spent>=c.maintbudget:
+			if before<=0 or spent>=c.maintbudget: #gifting event trigerred
 				break
 			before-=item.price
 			c.priceTag.append(item.price)
